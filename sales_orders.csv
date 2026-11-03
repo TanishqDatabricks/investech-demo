@@ -1,0 +1,1226 @@
+order_id,order_date,customer_id,region,channel,product_sku,product_name,quantity,unit_price,discount_pct,order_amount,status,refund_amount,refund_reason,sales_rep
+ORD-100860,2026-05-27,CUST-0135,Europe,web,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,
+ORD-100657,2026-09-02,CUST-0338,north america,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,
+ORD-100759,2026-09-04,CUST-0233,,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,A. Patel
+ORD-100932,30-Oct-2026,CUST-0185,apac,partner,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.15,5100.00,completed,,,S. Okafor
+ORD-100398,2026-07-16,CUST-0056,N. America,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.10,2160.00,completed,,,
+ORD-100996,2026-10-08,CUST-0230,north america,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,J. Kim
+ORD-100381,08/26/2026,,EMEA,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,J. Kim
+ORD-100170,2026-09-01,CUST-0273,N. America,web,SKU-1006,Data Sharing Pack,2,650.00,0.10,1170.00,completed,,,L. Chen
+ORD-100619,08/27/2026,CUST-0100,N. America,web,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,J. Kim
+ORD-100079,2026-05-10,CUST-0050,north america,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,
+ORD-100802,06/05/2026,CUST-0169,North America,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,L. Chen
+ORD-100988,10/16/2026,CUST-0051,North America,direct,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.05,"$5,700.00",completed,,,
+ORD-100425,2026-06-30,CUST-0280,Europe,direct,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,COMPLETED,,,S. Okafor
+ORD-100429,2026-05-07,CUST-0259,EMEA,direct,SKU-1003,ML Training Credits,3,800.00,0.10,2160.00,completed,,,M. Garcia
+ORD-100718,2026-10-06,CUST-0287,LATAM,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,S. Okafor
+ORD-100863,2026-09-11,CUST-0310,APAC,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,completed,,,
+ORD-100961,2026-05-29,CUST-0087,N. America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,
+ORD-101075,07/16/2026,CUST-0006,NA ,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,COMPLETED,,,L. Chen
+ORD-100046,2026-09-14,CUST-0260,NA ,web,SKU-1005,Premium Support,3,2500.00,0.00,"$7,500.00",completed,,,A. Patel
+ORD-100511,2026-09-02,CUST-0043,NA ,direct,SKU-1005,Premium Support,1,2500.00,0.00,"$2,500.00",completed,,,S. Okafor
+ORD-100405,06/09/2026,CUST-0275,emea,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.05,"$2,280.00",completed,,,
+ORD-101062,2026-08-04,CUST-0337,emea,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,
+ORD-100662,10/19/2026,CUST-0333,Latin America,direct,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,A. Patel
+ORD-100765,10/06/2026,CUST-0097,North America,direct,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,L. Chen
+ORD-100941,2026-06-11,CUST-0251,NA ,direct,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,A. Patel
+ORD-100905,2026-10-06,CUST-0258,LATAM,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,J. Kim
+ORD-100815,2026-06-03,CUST-0141,LATAM,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,cancelled,,,L. Chen
+ORD-100808,2026-08-31,CUST-0040,NA ,partner,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,M. Garcia
+ORD-100300,2026-05-07,CUST-0045,EMEA,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,A. Patel
+ORD-101138,05/27/2026,CUST-0207,north america,partner,SKU-1004,Dashboard Seats (10),3,300.00,0.05,855.00,completed,,,L. Chen
+ORD-100682,05/22/2026,CUST-0211,North America,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,M. Garcia
+ORD-100232,15-May-2026,CUST-0295,N. America,direct,SKU-1006,Data Sharing Pack,1,650.00,0.10,$585.00,completed,,,J. Kim
+ORD-100263,2026-08-27,CUST-0325,Asia Pacific,web,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,refunded,800.00,changed mind,L. Chen
+ORD-101198,2026-08-07,CUST-0165,north america,web,SKU-1005,Premium Support,1,2500.00,0.00,2500,completed,,,M. Garcia
+ORD-101086,2026-10-03,CUST-0193,Europe,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,M. Garcia
+ORD-100152,08/29/2026,CUST-0112,LATAM,web,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,M. Garcia
+ORD-101071,2026-06-27,CUST-0253,APAC,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,A. Patel
+ORD-100205,2026-06-12,CUST-0120,N. America,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,COMPLETED,,,S. Okafor
+ORD-100033,2026-06-13,CUST-0340,NA ,web,SKU-1002,Streaming Add-on,2,450.00,0.15,$765.00,completed,,,
+ORD-101011,2026-07-31,CUST-0110,apac,web,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,L. Chen
+ORD-100858,2026-06-21,CUST-0170,LATAM,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,A. Patel
+ORD-100380,05/05/2026,CUST-0198,EMEA,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,M. Garcia
+ORD-101119,06/04/2026,CUST-0183,LATAM,web,SKU-1001,Lakehouse Starter Kit,-1,1200.00,0.00,1200.00,completed,,,A. Patel
+ORD-100159,2026-10-20,CUST-0023,N. America,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,completed,,,A. Patel
+ORD-100773,05/26/2026,CUST-0232,emea,direct,SKU-1002,Streaming Add-on,3,450.00,0.00,1350,completed,,,S. Okafor
+ORD-101159,2026-07-18,CUST-0140,north america,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,L. Chen
+ORD-100851,2026-09-25,CUST-0119,apac,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,pending,,,M. Garcia
+ORD-100688,2026-10-09,CUST-0068,emea,web,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,J. Kim
+ORD-101118,05/22/2026,CUST-0077,N. America,marketplace,SKU-1004,Dashboard Seats (10),3,300.00,0.00,$900.00,completed,,,
+ORD-100524,2026-09-27,CUST-0006,N. America,partner,SKU-1004,Dashboard Seats (10),5,300.00,0.00,"$1,500.00",completed,,,S. Okafor
+ORD-101177,2026-07-20,CUST-0223,apac,web,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,COMPLETED,,,
+ORD-100725,2026-09-05,CUST-0152,north america,web,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,A. Patel
+ORD-100280,2026-09-04,CUST-0252,emea,partner,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,refunded,855.00,changed mind,S. Okafor
+ORD-100669,2026-09-19,CUST-0066,N. America,web,SKU-1002,Streaming Add-on,10,450.00,0.10,4050.00,completed,,,
+ORD-100353,2026-05-04,CUST-0160,N. America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,M. Garcia
+ORD-100486,30-Sep-2026,CUST-0089,NA ,web,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,J. Kim
+ORD-100533,2026-07-24,CUST-0232,emea,partner,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,PENDING,,,
+ORD-100974,2026-09-23,CUST-0266,Europe,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,S. Okafor
+ORD-100009,10/22/2026,CUST-0329,emea,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,refunded,2400.00,not as described,L. Chen
+ORD-100345,2026-06-23,CUST-0033,N. America,web,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,A. Patel
+ORD-100019,2026-06-10,CUST-0096,North America,web,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,completed,,,A. Patel
+ORD-100569,2026-06-12,CUST-0159,Asia Pacific,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,COMPLETED,,,L. Chen
+ORD-100820,2026-09-07,CUST-0122,north america,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,
+ORD-100237,2026-07-18,CUST-0091,,marketplace,SKU-1005,Premium Support,3,2500.00,0.05,"$7,125.00",completed,,,L. Chen
+ORD-100716,2026-07-26,CUST-0007,emea,web,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,A. Patel
+ORD-100471,09-May-2026,CUST-0076,NA ,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,M. Garcia
+ORD-100289,2026-10-11,CUST-0181,Europe,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,completed,,,
+ORD-100385,2026-06-10,CUST-0061,APAC,direct,SKU-1002,Streaming Add-on,2,450.00,0.10,$810.00,completed,,,A. Patel
+ORD-100388,2026-06-17,CUST-0071,APAC,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,refunded,600,not as described,S. Okafor
+ORD-100440,2026-05-01,CUST-0137,north america,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.15,$255.00,cancelled,,,L. Chen
+ORD-101172,05/12/2026,CUST-0106,north america,partner,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,COMPLETED,,,J. Kim
+ORD-100076,06/12/2026,CUST-0247,apac,direct,SKU-1003,ML Training Credits,2,800.00,0.00,"$1,600.00",completed,,,A. Patel
+ORD-100117,08/30/2026,CUST-0098,NA ,direct,SKU-1004,Dashboard Seats (10),10,300.00,0.10,"$2,700.00",COMPLETED,,,
+ORD-100997,07/05/2026,CUST-0204,emea,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,cancelled,,,A. Patel
+ORD-101190,09-May-2026,CUST-0314,Europe,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.05,$427.50,completed,,,S. Okafor
+ORD-100926,08/29/2026,CUST-0190,APAC,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,cancelled,,,
+ORD-100020,2026-05-21,CUST-0268,emea,direct,SKU-1005,Premium Support,2,2500.00,0.10,4500.00,completed,,,J. Kim
+ORD-100313,2026-09-10,CUST-0241,N. America,web,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,cancelled,,,A. Patel
+ORD-101179,2026-08-02,CUST-0296,emea,web,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,COMPLETED,,,S. Okafor
+ORD-100779,2026-07-30,CUST-0129,north america,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.05,$285.00,completed,,,L. Chen
+ORD-100059,05/11/2026,CUST-0310,emea,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,refunded,$270.00,damaged,
+ORD-100023,07/12/2026,CUST-0105,Asia Pacific,direct,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,A. Patel
+ORD-100703,2026-06-06,CUST-0331,apac,web,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,A. Patel
+ORD-101007,2026-09-13,CUST-0098,north america,direct,SKU-1006,Data Sharing Pack,1,650.00,0.15,$552.50,completed,,,S. Okafor
+ORD-100614,2026-06-03,,EMEA,direct,SKU-1004,Dashboard Seats (10),10,300.00,0.00,3000.00,refunded,3000.00,not as described,J. Kim
+ORD-100747,2026-08-01,CUST-0052,N. America,web,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,cancelled,,,
+ORD-100902,10-Jun-2026,CUST-0206,N. America,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,"$2,400.00",completed,,,L. Chen
+ORD-100056,2026-10-17,CUST-0283,North America,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-100025,2026-08-19,CUST-0021,emea,partner,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,M. Garcia
+ORD-100303,08/09/2026,CUST-0152,north america,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,
+ORD-101039,2026-07-16,CUST-0013,APAC,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,J. Kim
+ORD-100581,08/08/2026,CUST-0005,North America,marketplace,SKU-1004,Dashboard Seats (10),3,300.00,0.00,900.00,completed,,,A. Patel
+ORD-100859,06/19/2026,CUST-0219,Europe,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
+ORD-100971,2026-10-06,CUST-0047,Europe,marketplace,SKU-1005,Premium Support,2,2500.00,0.05,"$4,750.00",completed,,,M. Garcia
+ORD-100489,05/24/2026,CUST-0143,Asia Pacific,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,
+ORD-100681,2026-05-15,CUST-0169,apac,direct,SKU-1004,Dashboard Seats (10),5,300.00,0.05,1425.00,completed,,,
+ORD-100057,2026-08-25,CUST-0136,north america,marketplace,SKU-1003,ML Training Credits,2,800.00,0.15,1360.00,completed,,,J. Kim
+ORD-100522,2026-05-31,CUST-0233,N. America,web,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,M. Garcia
+ORD-100575,2026-06-02,CUST-0043,Europe,partner,SKU-1002,Streaming Add-on,3,450.00,0.15,"$1,147.50",completed,,,L. Chen
+ORD-100544,09/02/2026,CUST-0300,north america,partner,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,S. Okafor
+ORD-101199,2026-08-20,CUST-0249,N. America,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,M. Garcia
+ORD-100647,2026-08-30,CUST-0002,NA ,web,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,completed,,,
+ORD-100470,2026-10-29,CUST-0079,north america,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,L. Chen
+ORD-100058,2026-09-30,CUST-0148,apac,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,S. Okafor
+ORD-100901,2026-07-12,CUST-0121,emea,partner,SKU-1004,Dashboard Seats (10),10,300.00,0.00,3000.00,completed,,,A. Patel
+ORD-100764,2026-06-18,CUST-0303,NA ,direct,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,completed,,,L. Chen
+ORD-100305,2026-06-11,CUST-0130,north america,web,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,A. Patel
+ORD-100636,2026-05-19,CUST-0064,N. America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,M. Garcia
+ORD-100162,09/15/2026,CUST-0154,north america,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,completed,,,S. Okafor
+ORD-100140,2026-08-16,CUST-0211,Europe,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,completed,,,A. Patel
+ORD-101110,2026-06-20,CUST-0202,EMEA,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,COMPLETED,,,J. Kim
+ORD-100418,2026-09-24,CUST-0306,emea,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.15,2040.00,refunded,2040.00,changed mind,A. Patel
+ORD-100515,2026-05-09,CUST-0028,Europe,partner,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,refunded,720.00,not as described,
+ORD-100215,2026-07-06,CUST-0138,LATAM,web,SKU-1005,Premium Support,2,2500.00,0.15,4250.00,completed,,,L. Chen
+ORD-100594,2026-08-29,CUST-0189,North America,partner,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,completed,,,L. Chen
+ORD-100312,2026-09-22,CUST-0075,Asia Pacific,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,CANCELLED,,,S. Okafor
+ORD-100455,2026-09-02,CUST-0111,N. America,partner,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,
+ORD-100761,2026-05-29,CUST-0136,apac,marketplace,SKU-1003,ML Training Credits,5,800.00,0.00,4000.00,completed,,,J. Kim
+ORD-100640,07/18/2026,CUST-0046,LATAM,direct,SKU-1006,Data Sharing Pack,5,650.00,0.10,"$2,925.00",completed,,,J. Kim
+ORD-101090,2026-08-07,CUST-0083,EMEA,direct,SKU-1003,ML Training Credits,3,800.00,0.00,"$2,400.00",completed,,,J. Kim
+ORD-100912,2026-07-27,CUST-0231,Asia Pacific,direct,SKU-1004,Dashboard Seats (10),3,300.00,0.00,900.00,completed,,,J. Kim
+ORD-100160,2026-09-25,CUST-0165,LATAM,direct,SKU-1002,Streaming Add-on,3,450.00,0.15,"$1,147.50",completed,,,L. Chen
+ORD-100842,08/10/2026,CUST-0248,Latin America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,COMPLETED,,,M. Garcia
+ORD-100297,28-Jul-2026,CUST-0315,LATAM,web,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,A. Patel
+ORD-100254,2026-10-28,CUST-0238,N. America,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,S. Okafor
+ORD-100964,2026-09-22,CUST-0196,APAC,web,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,completed,,,A. Patel
+ORD-100265,2026-05-02,CUST-0087,Europe,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,A. Patel
+ORD-100338,2026-08-04,CUST-0231,north america,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255,completed,,,A. Patel
+ORD-100596,2026-09-04,CUST-0115,north america,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,
+ORD-100995,07/19/2026,CUST-0140,N. America,web,SKU-1005,Premium Support,2,2500.00,0.15,4250.00,completed,,,M. Garcia
+ORD-100807,2026-07-03,CUST-0065,apac,partner,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,L. Chen
+ORD-100209,2026-07-10,CUST-0308,Latin America,web,SKU-1003,ML Training Credits,3,800.00,0.00,"$2,400.00",completed,,,M. Garcia
+ORD-100139,2026-09-25,CUST-0246,EMEA,marketplace,SKU-1003,ML Training Credits,10,800.00,0.10,7200.00,completed,,,A. Patel
+ORD-100446,05/13/2026,CUST-0050,emea,partner,SKU-1002,Streaming Add-on,1,450.00,0.15,$382.50,CANCELLED,,,A. Patel
+ORD-100161,2026-06-14,CUST-0254,North America,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.10,"$2,160.00",completed,,,L. Chen
+ORD-100762,2026-08-14,CUST-0268,north america,marketplace,SKU-1003,ML Training Credits,3,800.00,0.10,2160.00,completed,,,M. Garcia
+ORD-100221,2026-07-18,CUST-0122,Latin America,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.05,3420,completed,,,J. Kim
+ORD-100464,06/23/2026,CUST-0165,emea,direct,SKU-1005,Premium Support,5,2500.00,0.15,10625.00,completed,,,A. Patel
+ORD-100887,2026-05-28,CUST-0052,N. America,web,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,L. Chen
+ORD-100155,05/12/2026,CUST-0278,APAC,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650,completed,,,M. Garcia
+ORD-100245,2026-07-08,CUST-0050,North America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,L. Chen
+ORD-100348,09/01/2026,,emea,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,A. Patel
+ORD-100946,05/07/2026,CUST-0018,Europe,partner,SKU-1003,ML Training Credits,2,800.00,0.00,"$1,600.00",COMPLETED,,,S. Okafor
+ORD-100294,2026-05-11,CUST-0067,LATAM,direct,SKU-1006,Data Sharing Pack,-2,650.00,0.05,1235.00,completed,,,J. Kim
+ORD-100460,2026-07-01,CUST-0246,NA ,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,
+ORD-100261,2026-10-30,CUST-0244,Europe,direct,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,completed,,,
+ORD-100250,2026-09-02,CUST-0089,apac,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,
+ORD-100255,07/28/2026,CUST-0047,NA ,web,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,L. Chen
+ORD-100050,2026-07-15,CUST-0157,Europe,direct,SKU-1004,Dashboard Seats (10),3,300.00,0.00,900.00,completed,,,S. Okafor
+ORD-100131,06/06/2026,CUST-0177,N. America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,A. Patel
+ORD-100071,2026-06-13,CUST-0196,north america,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,completed,,,S. Okafor
+ORD-100598,2026-06-20,CUST-0135,Asia Pacific,partner,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.00,12000.00,completed,,,J. Kim
+ORD-100978,2026-08-31,CUST-0182,North America,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,refunded,650.00,changed mind,S. Okafor
+ORD-100726,2026-07-05,CUST-0072,EMEA,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,completed,,,S. Okafor
+ORD-100477,23-Jun-2026,CUST-0269,NA ,web,SKU-1005,Premium Support,2,2500.00,0.00,"$5,000.00",completed,,,S. Okafor
+ORD-100563,2026-05-20,CUST-0302,N. America,direct,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,completed,,,S. Okafor
+ORD-100600,05/17/2026,CUST-0067,LATAM,partner,SKU-1005,Premium Support,5,2500.00,0.15,10625.00,completed,,,M. Garcia
+ORD-100857,23-Jun-2026,CUST-0070,north america,marketplace,SKU-1005,Premium Support,1,2500.00,0.05,2375.00,cancelled,,,J. Kim
+ORD-100487,2026-06-03,CUST-0058,North America,web,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,pending,,,A. Patel
+ORD-101169,2026-08-22,CUST-0110,North America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,L. Chen
+ORD-100239,2026-05-03,CUST-0035,emea,direct,SKU-1006,Data Sharing Pack,5,650.00,0.05,"$3,087.50",completed,,,A. Patel
+ORD-100006,06/28/2026,CUST-0206,NA ,web,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,refunded,"$2,400.00",not as described,J. Kim
+ORD-100880,2026-07-08,CUST-0015,APAC,partner,SKU-1005,Premium Support,1,2500.00,0.05,"$2,375.00",cancelled,,,
+ORD-100767,2026-08-21,CUST-0333,N. America,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,J. Kim
+ORD-100428,2026-07-14,CUST-0306,NA ,direct,SKU-1003,ML Training Credits,10,800.00,0.00,8000.00,completed,,,J. Kim
+ORD-100042,2026-07-26,CUST-0216,NA ,web,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,A. Patel
+ORD-100715,2026-06-07,CUST-0040,EMEA,marketplace,SKU-1005,Premium Support,5,2500.00,0.00,12500.00,completed,,,
+ORD-100458,2026-07-03,CUST-0114,Asia Pacific,partner,SKU-1003,ML Training Credits,1,800.00,0.05,$760.00,completed,,,S. Okafor
+ORD-100768,2026-10-22,CUST-0057,EMEA,web,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,COMPLETED,,,M. Garcia
+ORD-100959,2026-06-05,CUST-0300,north america,partner,SKU-1002,Streaming Add-on,10,450.00,0.00,4500.00,refunded,"$4,500.00",damaged,
+ORD-100612,2026-05-24,CUST-0091,EMEA,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,S. Okafor
+ORD-100599,2026-10-21,CUST-0057,NA ,partner,SKU-1003,ML Training Credits,5,800.00,0.00,4000.00,completed,,,M. Garcia
+ORD-100147,2026-07-14,CUST-0291,North America,direct,SKU-1004,Dashboard Seats (10),3,300.00,0.00,900.00,refunded,900.00,changed mind,J. Kim
+ORD-101020,2026-05-30,CUST-0055,north america,web,SKU-1006,Data Sharing Pack,5,650.00,0.10,2925.00,COMPLETED,,,L. Chen
+ORD-100448,2026-06-14,CUST-0073,Latin America,partner,SKU-1002,Streaming Add-on,3,450.00,0.10,1215.00,completed,,,S. Okafor
+ORD-100562,2026-05-27,CUST-0185,N. America,web,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,S. Okafor
+ORD-100484,2026-07-27,CUST-0112,EMEA,partner,SKU-1003,ML Training Credits,3,800.00,0.05,"$2,280.00",cancelled,,,L. Chen
+ORD-100078,2026-10-20,CUST-0288,NA ,partner,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250.00,completed,,,S. Okafor
+ORD-100072,2026-07-13,CUST-0227,emea,direct,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,completed,,,M. Garcia
+ORD-101040,2026-05-28,CUST-0102,N. America,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,cancelled,,,A. Patel
+ORD-100674,2026-10-21,CUST-0305,Latin America,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,pending,,,
+ORD-100610,2026-06-27,CUST-0207,NA ,direct,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,A. Patel
+ORD-100833,09/02/2026,CUST-0148,NA ,web,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,completed,,,J. Kim
+ORD-100101,2026-08-07,CUST-0022,apac,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.10,2160.00,completed,,,J. Kim
+ORD-101105,2026-08-28,CUST-0105,apac,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,COMPLETED,,,J. Kim
+ORD-100962,04-Sep-2026,CUST-0216,EMEA,web,SKU-1003,ML Training Credits,1,800.00,0.15,$680.00,refunded,680.00,not as described,M. Garcia
+ORD-100564,2026-06-06,CUST-0235,LATAM,web,SKU-1006,Data Sharing Pack,10,650.00,0.00,6500.00,completed,,,A. Patel
+ORD-100377,2026-05-14,CUST-0076,NA ,web,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,M. Garcia
+ORD-101115,27-Aug-2026,CUST-0278,Asia Pacific,direct,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,cancelled,,,L. Chen
+ORD-100132,25-May-2026,CUST-0316,emea,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800,completed,,,M. Garcia
+ORD-100756,2026-08-16,CUST-0164,APAC,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,A. Patel
+ORD-100260,2026-10-22,CUST-0255,apac,direct,SKU-1005,Premium Support,-1,2500.00,0.00,"$2,500.00",completed,,,
+ORD-101154,06/22/2026,CUST-0073,apac,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,S. Okafor
+ORD-100561,09/26/2026,CUST-0322,Europe,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,
+ORD-100190,24-Jul-2026,CUST-0119,,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,S. Okafor
+ORD-100568,2026-05-23,CUST-0210,emea,partner,SKU-1002,Streaming Add-on,3,450.00,0.00,"$1,350.00",completed,,,A. Patel
+ORD-100693,2026-06-18,CUST-0051,North America,direct,SKU-1005,Premium Support,10,2500.00,0.15,21250.00,completed,,,J. Kim
+ORD-100206,05/03/2026,CUST-0217,Europe,partner,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,A. Patel
+ORD-100259,10/15/2026,CUST-0153,north america,partner,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,A. Patel
+ORD-100738,2026-07-12,CUST-0224,Europe,direct,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,refunded,$855.00,damaged,A. Patel
+ORD-100432,2026-05-14,CUST-0155,N. America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,S. Okafor
+ORD-100372,2026-08-15,CUST-0117,North America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,cancelled,,,M. Garcia
+ORD-101101,07/02/2026,CUST-0128,APAC,web,SKU-1005,Premium Support,3,2500.00,0.05,7125.00,completed,,,A. Patel
+ORD-100382,2026-09-06,CUST-0132,emea,web,SKU-1003,ML Training Credits,2,800.00,0.00,"$1,600.00",completed,,,J. Kim
+ORD-100899,2026-09-05,CUST-0200,apac,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,A. Patel
+ORD-101145,2026-08-12,CUST-0216,EMEA,direct,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,COMPLETED,,,A. Patel
+ORD-100730,2026-07-11,CUST-0241,EMEA,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,COMPLETED,,,L. Chen
+ORD-100732,09/12/2026,CUST-0095,North America,web,SKU-1006,Data Sharing Pack,1,650.00,0.05,$617.50,completed,,,M. Garcia
+ORD-101122,2026-10-28,CUST-0121,emea,direct,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,
+ORD-100648,2026-10-04,CUST-0244,North America,marketplace,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,J. Kim
+ORD-100462,10/04/2026,CUST-0042,NA ,web,SKU-1004,Dashboard Seats (10),3,300.00,0.15,765.00,completed,,,M. Garcia
+ORD-100012,2026-09-16,CUST-0160,emea,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,A. Patel
+ORD-100010,2026-10-11,CUST-0192,EMEA,web,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.00,6000.00,completed,,,A. Patel
+ORD-100945,06/08/2026,CUST-0093,apac,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,COMPLETED,,,J. Kim
+ORD-100632,2026-06-20,CUST-0128,NA ,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,J. Kim
+ORD-100710,2026-08-31,CUST-0219,NA ,partner,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,J. Kim
+ORD-100951,2026-06-16,CUST-0122,north america,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,S. Okafor
+ORD-100513,08/08/2026,CUST-0217,APAC,partner,SKU-1003,ML Training Credits,3,800.00,0.15,2040.00,completed,,,M. Garcia
+ORD-100203,2026-06-03,,North America,web,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,S. Okafor
+ORD-100943,05/22/2026,CUST-0242,APAC,direct,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,A. Patel
+ORD-101040,2026-05-28,CUST-0102,N. America,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,cancelled,,,A. Patel
+ORD-100307,2026-07-21,CUST-0338,NA ,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,M. Garcia
+ORD-100866,2026-05-04,CUST-0141,N. America,marketplace,SKU-1003,ML Training Credits,5,800.00,0.10,3600.00,completed,,,M. Garcia
+ORD-101047,2026-08-10,CUST-0322,NA ,direct,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,J. Kim
+ORD-100026,2026-06-09,CUST-0084,APAC,marketplace,SKU-1004,Dashboard Seats (10),10,300.00,0.15,2550.00,cancelled,,,M. Garcia
+ORD-100193,2026-09-29,CUST-0061,APAC,direct,SKU-1006,Data Sharing Pack,3,650.00,0.10,1755.00,completed,,,J. Kim
+ORD-100976,02-Jun-2026,CUST-0260,Latin America,direct,SKU-1002,Streaming Add-on,3,450.00,0.10,1215.00,completed,,,J. Kim
+ORD-100806,2026-07-30,CUST-0030,north america,partner,SKU-1005,Premium Support,10,2500.00,0.00,25000.00,COMPLETED,,,S. Okafor
+ORD-101126,2026-05-02,CUST-0129,N. America,web,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,refunded,7500.00,duplicate charge,J. Kim
+ORD-100982,2026-06-16,CUST-0221,NA ,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,J. Kim
+ORD-100034,08/30/2026,CUST-0234,apac,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,S. Okafor
+ORD-100392,14-May-2026,CUST-0238,N. America,web,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,L. Chen
+ORD-100993,04-Oct-2026,CUST-0106,Europe,web,SKU-1004,Dashboard Seats (10),1,300.00,0.15,$255.00,COMPLETED,,,J. Kim
+ORD-101041,2026-07-20,CUST-0014,Asia Pacific,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,refunded,2500.00,damaged,
+ORD-101056,2026-08-31,CUST-0140,LATAM,partner,SKU-1003,ML Training Credits,-2,800.00,0.15,1360.00,completed,,,
+ORD-100776,12-Sep-2026,CUST-0179,Latin America,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.05,1235.00,completed,,,M. Garcia
+ORD-101112,2026-10-20,CUST-0236,NA ,direct,SKU-1004,Dashboard Seats (10),5,300.00,0.00,"$1,500.00",completed,,,M. Garcia
+ORD-101024,10/27/2026,CUST-0097,north america,direct,SKU-1005,Premium Support,2,2500.00,0.00,"$5,000.00",completed,,,S. Okafor
+ORD-100417,2026-08-07,CUST-0303,N. America,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,
+ORD-100910,2026-08-11,CUST-0333,N. America,marketplace,SKU-1006,Data Sharing Pack,3,650.00,0.00,"$1,950.00",completed,,,M. Garcia
+ORD-100286,2026-08-19,CUST-0261,EMEA,partner,SKU-1005,Premium Support,2,2500.00,0.10,4500.00,refunded,4500.00,not as described,L. Chen
+ORD-100687,2026-07-03,CUST-0135,north america,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,A. Patel
+ORD-100029,2026-05-10,CUST-0161,N. America,web,SKU-1003,ML Training Credits,-1,800.00,0.00,800.00,completed,,,M. Garcia
+ORD-101001,2026-08-21,CUST-0126,NA ,partner,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,A. Patel
+ORD-101124,2026-09-19,CUST-0108,N. America,web,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,M. Garcia
+ORD-100420,2026-07-14,CUST-0101,APAC,direct,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,completed,,,
+ORD-100864,10/23/2026,CUST-0334,NA ,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,S. Okafor
+ORD-100685,10/30/2026,CUST-0205,N. America,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,completed,,,A. Patel
+ORD-101059,2026-08-01,CUST-0130,EMEA,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.05,$570.00,pending,,,S. Okafor
+ORD-100153,2026-06-21,CUST-0168,Europe,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.10,3240.00,completed,,,L. Chen
+ORD-100231,2026-07-21,CUST-0144,EMEA,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,J. Kim
+ORD-100565,2026-10-02,CUST-0190,Latin America,web,SKU-1003,ML Training Credits,5,800.00,0.00,4000.00,refunded,4000.00,not as described,M. Garcia
+ORD-100064,2026-10-13,CUST-0150,Latin America,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",refunded,1200.00,duplicate charge,S. Okafor
+ORD-100360,08/28/2026,CUST-0284,north america,web,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,M. Garcia
+ORD-100309,05/21/2026,CUST-0072,Europe,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,refunded,1080.00,damaged,A. Patel
+ORD-100274,2026-07-15,CUST-0090,EMEA,direct,SKU-1003,ML Training Credits,2,800.00,0.05,1520.00,completed,,,S. Okafor
+ORD-100397,10/01/2026,CUST-0143,Europe,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,
+ORD-100831,2026-07-11,CUST-0153,N. America,direct,SKU-1002,Streaming Add-on,2,450.00,0.10,810.00,cancelled,,,L. Chen
+ORD-100319,2026-10-23,CUST-0303,North America,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,A. Patel
+ORD-100310,2026-06-24,CUST-0279,Europe,marketplace,SKU-1005,Premium Support,2,2500.00,0.10,4500.00,cancelled,,,S. Okafor
+ORD-100002,2026-09-17,CUST-0143,North America,partner,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,completed,,,J. Kim
+ORD-101005,08/08/2026,CUST-0189,North America,marketplace,SKU-1003,ML Training Credits,2,800.00,0.00,"$1,600.00",pending,,,S. Okafor
+ORD-101190,09-May-2026,CUST-0314,Europe,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.05,$427.50,completed,,,S. Okafor
+ORD-100724,08-Aug-2026,CUST-0311,LATAM,partner,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.15,5100.00,completed,,,A. Patel
+ORD-100456,2026-05-09,CUST-0070,North America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,M. Garcia
+ORD-100421,2026-05-23,CUST-0262,Latin America,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,COMPLETED,,,L. Chen
+ORD-100791,2026-07-17,CUST-0337,Europe,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,completed,,,J. Kim
+ORD-100975,19-Aug-2026,CUST-0121,emea,direct,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,M. Garcia
+ORD-100483,2026-09-17,,emea,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,J. Kim
+ORD-101019,2026-08-13,CUST-0178,NA ,partner,SKU-1003,ML Training Credits,3,800.00,0.05,2280.00,completed,,,S. Okafor
+ORD-100127,10/11/2026,CUST-0067,emea,web,SKU-1002,Streaming Add-on,5,450.00,0.10,"$2,025.00",completed,,,M. Garcia
+ORD-100149,2026-07-23,CUST-0095,APAC,marketplace,SKU-1004,Dashboard Seats (10),3,300.00,0.10,810.00,completed,,,M. Garcia
+ORD-101129,2026-09-29,CUST-0234,North America,direct,SKU-1006,Data Sharing Pack,3,650.00,0.05,1852.50,completed,,,
+ORD-100083,01-May-2026,CUST-0067,Asia Pacific,direct,SKU-1003,ML Training Credits,3,800.00,0.10,"$2,160.00",completed,,,A. Patel
+ORD-101100,2026-09-06,CUST-0070,north america,web,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,J. Kim
+ORD-100658,12-Jul-2026,CUST-0281,N. America,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,L. Chen
+ORD-100646,08/11/2026,CUST-0072,APAC,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,"$1,020.00",completed,,,
+ORD-100368,2026-06-24,CUST-0131,,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,completed,,,
+ORD-100865,2026-06-18,CUST-0006,north america,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,L. Chen
+ORD-100214,2026-10-03,CUST-0337,north america,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,A. Patel
+ORD-100343,24-Sep-2026,CUST-0041,EMEA,direct,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,M. Garcia
+ORD-101164,2026-06-28,CUST-0219,Asia Pacific,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,"$1,080.00",cancelled,,,L. Chen
+ORD-100839,2026-06-24,CUST-0286,Asia Pacific,partner,SKU-1005,Premium Support,3,2500.00,0.15,6375.00,COMPLETED,,,
+ORD-100785,05/22/2026,CUST-0333,EMEA,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,L. Chen
+ORD-100277,2026-08-21,CUST-0184,Asia Pacific,web,SKU-1004,Dashboard Seats (10),3,300.00,0.15,$765.00,completed,,,
+ORD-100371,06/14/2026,CUST-0296,North America,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.05,2280.00,completed,,,S. Okafor
+ORD-100911,2026-08-14,CUST-0125,emea,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,
+ORD-100308,2026-10-30,CUST-0185,north america,direct,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,completed,,,M. Garcia
+ORD-100617,2026-08-09,CUST-0081,apac,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,COMPLETED,,,
+ORD-100778,2026-09-20,CUST-0148,EMEA,direct,SKU-1005,Premium Support,10,2500.00,0.10,22500.00,COMPLETED,,,M. Garcia
+ORD-100503,2026-07-23,CUST-0217,N. America,direct,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,A. Patel
+ORD-100714,2026-10-26,CUST-0014,Asia Pacific,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,
+ORD-100925,07/22/2026,CUST-0088,APAC,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-100121,2026-05-09,CUST-0331,NA ,direct,SKU-1005,Premium Support,2,2500.00,0.05,4750.00,completed,,,L. Chen
+ORD-101003,2026-10-08,CUST-0011,Asia Pacific,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,"$2,500.00",completed,,,M. Garcia
+ORD-100824,2026-06-19,CUST-0125,emea,partner,SKU-1005,Premium Support,1,2500.00,0.00,"$2,500.00",refunded,2500.00,not as described,
+ORD-101009,2026-05-07,CUST-0089,Latin America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,completed,,,J. Kim
+ORD-100219,08/28/2026,CUST-0160,apac,web,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.00,12000.00,REFUNDED,12000.00,not as described,
+ORD-100435,2026-09-12,CUST-0113,Europe,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,COMPLETED,,,L. Chen
+ORD-100088,2026-07-05,CUST-0243,EMEA,web,SKU-1003,ML Training Credits,1,800.00,0.15,$680.00,COMPLETED,,,A. Patel
+ORD-101083,2026-07-01,CUST-0157,EMEA,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
+ORD-100570,2026-09-06,CUST-0273,APAC,web,SKU-1005,Premium Support,2,2500.00,0.05,4750.00,refunded,"$4,750.00",changed mind,A. Patel
+ORD-100552,2026-09-07,CUST-0106,emea,partner,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,3600.00,completed,,,L. Chen
+ORD-100795,2026-08-30,CUST-0122,North America,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,S. Okafor
+ORD-100893,2026-09-12,CUST-0168,NA ,web,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,
+ORD-100721,2026-07-12,CUST-0162,N. America,direct,SKU-1003,ML Training Credits,1,800.00,0.00,800,cancelled,,,A. Patel
+ORD-100323,10/15/2026,CUST-0210,emea,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.05,2280.00,completed,,,M. Garcia
+ORD-101085,10/01/2026,CUST-0094,Europe,marketplace,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,
+ORD-100936,2026-08-25,,North America,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,COMPLETED,,,S. Okafor
+ORD-100096,2026-05-11,CUST-0040,emea,marketplace,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,S. Okafor
+ORD-100809,2026-09-19,CUST-0270,apac,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,A. Patel
+ORD-101188,2026-06-19,CUST-0162,Asia Pacific,web,SKU-1002,Streaming Add-on,10,450.00,0.00,4500.00,refunded,4500.00,damaged,A. Patel
+ORD-100395,06/07/2026,CUST-0215,emea,direct,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,M. Garcia
+ORD-100628,2026-05-04,CUST-0064,emea,partner,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,completed,,,L. Chen
+ORD-100102,2026-09-07,CUST-0225,emea,partner,SKU-1003,ML Training Credits,10,800.00,0.00,8000.00,completed,,,S. Okafor
+ORD-101010,02-Sep-2026,CUST-0314,North America,web,SKU-1002,Streaming Add-on,3,450.00,0.00,"$1,350.00",COMPLETED,,,A. Patel
+ORD-100970,01-Aug-2026,CUST-0166,EMEA,web,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,L. Chen
+ORD-100387,2026-09-23,CUST-0119,Asia Pacific,web,SKU-1005,Premium Support,2,2500.00,0.10,4500.00,completed,,,S. Okafor
+ORD-100551,2026-10-24,CUST-0054,Asia Pacific,web,SKU-1005,Premium Support,1,2500.00,0.00,"$2,500.00",refunded,2500.00,damaged,A. Patel
+ORD-100534,2026-08-06,CUST-0123,apac,web,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,completed,,,S. Okafor
+ORD-100541,2026-08-10,CUST-0245,emea,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,completed,,,L. Chen
+ORD-100630,2026-06-28,CUST-0125,LATAM,web,SKU-1006,Data Sharing Pack,3,650.00,0.00,"$1,950.00",refunded,1950.00,duplicate charge,L. Chen
+ORD-100649,2026-09-05,CUST-0281,apac,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",completed,,,S. Okafor
+ORD-101030,2026-09-29,CUST-0009,N. America,marketplace,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250.00,cancelled,,,A. Patel
+ORD-100028,2026-06-19,CUST-0036,apac,direct,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,L. Chen
+ORD-100665,09/27/2026,CUST-0334,APAC,partner,SKU-1005,Premium Support,1,2500.00,0.10,2250,completed,,,J. Kim
+ORD-101091,2026-06-26,CUST-0158,N. America,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,A. Patel
+ORD-100124,2026-10-18,CUST-0278,emea,direct,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,"$3,600.00",completed,,,
+ORD-100499,2026-08-19,CUST-0231,apac,marketplace,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,REFUNDED,5000.00,not as described,
+ORD-100196,2026-07-14,CUST-0148,EMEA,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,S. Okafor
+ORD-100233,2026-05-08,CUST-0291,Europe,partner,SKU-1006,Data Sharing Pack,2,650.00,0.10,1170.00,completed,,,S. Okafor
+ORD-100262,2026-07-06,CUST-0094,NA ,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,M. Garcia
+ORD-100586,2026-07-10,CUST-0254,Latin America,web,SKU-1004,Dashboard Seats (10),3,300.00,0.05,$855.00,completed,,,M. Garcia
+ORD-100317,2026-09-24,CUST-0263,APAC,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,J. Kim
+ORD-100073,2026-06-30,,NA ,web,SKU-1004,Dashboard Seats (10),3,300.00,0.00,900,completed,,,M. Garcia
+ORD-100454,2026-08-16,CUST-0167,north america,web,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,COMPLETED,,,
+ORD-100782,2026-06-21,CUST-0291,Asia Pacific,marketplace,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,S. Okafor
+ORD-100293,22-Aug-2026,CUST-0332,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.10,$585.00,refunded,585.00,duplicate charge,
+ORD-100474,09/27/2026,CUST-0143,north america,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,
+ORD-100989,07/22/2026,CUST-0150,N. America,marketplace,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,COMPLETED,,,A. Patel
+ORD-100481,05/31/2026,CUST-0009,apac,partner,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,S. Okafor
+ORD-100248,2026-06-07,CUST-0035,North America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,refunded,$552.50,changed mind,A. Patel
+ORD-100656,04-Sep-2026,CUST-0031,emea,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,completed,,,
+ORD-100322,06/04/2026,CUST-0043,apac,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.05,1235.00,COMPLETED,,,
+ORD-100288,2026-09-19,CUST-0320,Asia Pacific,direct,SKU-1005,Premium Support,3,2500.00,0.15,6375.00,completed,,,J. Kim
+ORD-100186,2026-10-18,CUST-0023,Asia Pacific,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.15,3060,completed,,,S. Okafor
+ORD-100772,09/27/2026,CUST-0242,APAC,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.05,"$2,280.00",completed,,,M. Garcia
+ORD-101084,2026-10-24,CUST-0186,Europe,direct,SKU-1002,Streaming Add-on,3,450.00,0.00,1350.00,completed,,,L. Chen
+ORD-100364,2026-08-28,CUST-0286,Asia Pacific,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,completed,,,A. Patel
+ORD-100246,15-Sep-2026,CUST-0294,,marketplace,SKU-1004,Dashboard Seats (10),3,300.00,0.05,855.00,completed,,,
+ORD-100180,2026-10-23,CUST-0155,emea,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,M. Garcia
+ORD-100093,2026-06-09,CUST-0042,emea,marketplace,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,S. Okafor
+ORD-100578,2026-08-19,CUST-0163,Europe,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,
+ORD-100234,2026-10-02,CUST-0001,NA ,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",completed,,,J. Kim
+ORD-100341,2026-09-20,CUST-0011,emea,web,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,cancelled,,,L. Chen
+ORD-100966,2026-08-19,CUST-0291,EMEA,web,SKU-1004,Dashboard Seats (10),3,300.00,0.15,765.00,completed,,,M. Garcia
+ORD-100266,2026-08-07,CUST-0192,North America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.05,$285.00,completed,,,A. Patel
+ORD-100207,06/05/2026,CUST-0069,north america,web,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,COMPLETED,,,
+ORD-100586,2026-07-10,CUST-0254,Latin America,web,SKU-1004,Dashboard Seats (10),3,300.00,0.05,$855.00,completed,,,M. Garcia
+ORD-100085,2026-10-16,CUST-0016,EMEA,marketplace,SKU-1002,Streaming Add-on,5,450.00,0.00,"$2,250.00",completed,,,A. Patel
+ORD-100835,2026-09-11,CUST-0057,North America,marketplace,SKU-1005,Premium Support,1,2500.00,0.05,"$2,375.00",completed,,,A. Patel
+ORD-100013,2026-09-28,CUST-0324,North America,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,COMPLETED,,,M. Garcia
+ORD-100177,2026-09-27,CUST-0317,NA ,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,COMPLETED,,,J. Kim
+ORD-100931,2026-09-21,CUST-0294,,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,
+ORD-101160,2026-07-23,,north america,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,L. Chen
+ORD-101170,2026-06-02,CUST-0274,North America,marketplace,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,cancelled,,,
+ORD-100255,07/28/2026,CUST-0047,NA ,web,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,L. Chen
+ORD-100251,08/30/2026,CUST-0011,NA ,direct,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,cancelled,,,
+ORD-101114,07/16/2026,CUST-0208,North America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,J. Kim
+ORD-100213,2026-06-22,CUST-0168,N. America,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,pending,,,J. Kim
+ORD-100126,08/31/2026,CUST-0295,North America,partner,SKU-1003,ML Training Credits,1,800.00,0.15,680,completed,,,S. Okafor
+ORD-100498,10/17/2026,CUST-0239,north america,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,M. Garcia
+ORD-100891,07/26/2026,CUST-0013,Asia Pacific,direct,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,completed,,,A. Patel
+ORD-100005,2026-10-13,CUST-0274,north america,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,
+ORD-100194,2026-06-17,CUST-0331,north america,partner,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,M. Garcia
+ORD-100840,01-Sep-2026,CUST-0154,north america,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,
+ORD-101181,09/20/2026,CUST-0134,Asia Pacific,direct,SKU-1003,ML Training Credits,3,800.00,0.00,2400,cancelled,,,L. Chen
+ORD-100320,2026-10-03,CUST-0315,Asia Pacific,web,SKU-1005,Premium Support,2,2500.00,0.00,"$5,000.00",completed,,,A. Patel
+ORD-100157,08/09/2026,CUST-0115,APAC,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080,completed,,,
+ORD-100321,2026-10-21,CUST-0190,EMEA,marketplace,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,S. Okafor
+ORD-101037,2026-10-10,CUST-0318,N. America,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",completed,,,S. Okafor
+ORD-100973,2026-06-26,CUST-0332,north america,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,A. Patel
+ORD-100422,05/29/2026,CUST-0121,N. America,marketplace,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,refunded,7500.00,changed mind,L. Chen
+ORD-100311,2026-08-27,CUST-0187,Asia Pacific,web,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,L. Chen
+ORD-100103,2026-10-13,CUST-0286,N. America,direct,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,L. Chen
+ORD-100065,07/10/2026,CUST-0175,Europe,direct,SKU-1006,Data Sharing Pack,5,650.00,0.00,"$3,250.00",completed,,,M. Garcia
+ORD-100033,2026-06-13,CUST-0340,NA ,web,SKU-1002,Streaming Add-on,2,450.00,0.15,$765.00,completed,,,
+ORD-101046,2026-10-30,CUST-0021,EMEA,web,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,A. Patel
+ORD-100069,2026-10-20,CUST-0163,Europe,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,REFUNDED,650.00,not as described,J. Kim
+ORD-100438,2026-05-16,CUST-0031,NA ,direct,SKU-1002,Streaming Add-on,3,450.00,0.00,1350.00,COMPLETED,,,J. Kim
+ORD-100960,2026-08-29,CUST-0064,N. America,partner,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.10,3240.00,completed,,,
+ORD-100767,2026-08-21,CUST-0333,N. America,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,J. Kim
+ORD-100549,2026-09-04,CUST-0025,North America,direct,SKU-1005,Premium Support,1,2500.00,0.05,"$2,375.00",completed,,,J. Kim
+ORD-100683,2026-09-15,CUST-0225,N. America,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,A. Patel
+ORD-100739,05/27/2026,CUST-0279,North America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,completed,,,
+ORD-100611,2026-10-03,CUST-0196,north america,marketplace,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,completed,,,S. Okafor
+ORD-100451,2026-10-08,CUST-0215,EMEA,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,refunded,650,not as described,L. Chen
+ORD-101186,14-Jul-2026,CUST-0272,North America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,L. Chen
+ORD-100592,2026-09-28,CUST-0305,Europe,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,L. Chen
+ORD-101050,07/19/2026,CUST-0171,APAC,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,completed,,,M. Garcia
+ORD-100086,2026-10-03,CUST-0320,Asia Pacific,direct,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.00,6000.00,completed,,,M. Garcia
+ORD-100361,2026-06-17,CUST-0187,Europe,partner,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,REFUNDED,1105,changed mind,J. Kim
+ORD-100616,07/16/2026,CUST-0090,apac,partner,SKU-1003,ML Training Credits,2,800.00,0.15,1360.00,completed,,,S. Okafor
+ORD-100264,2026-07-27,CUST-0235,north america,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,completed,,,A. Patel
+ORD-100188,2026-08-15,CUST-0073,NA ,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,cancelled,,,L. Chen
+ORD-100067,2026-05-12,CUST-0196,N. America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,COMPLETED,,,L. Chen
+ORD-100480,2026-10-24,CUST-0142,emea,web,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,S. Okafor
+ORD-100383,2026-08-06,CUST-0321,Asia Pacific,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,S. Okafor
+ORD-100595,2026-06-21,CUST-0244,N. America,direct,SKU-1002,Streaming Add-on,10,450.00,0.15,"$3,825.00",completed,,,M. Garcia
+ORD-100212,2026-08-10,CUST-0257,N. America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,COMPLETED,,,L. Chen
+ORD-100521,28-Jun-2026,CUST-0102,NA ,partner,SKU-1005,Premium Support,2,2500.00,0.15,4250.00,cancelled,,,L. Chen
+ORD-101082,2026-09-24,CUST-0251,emea,web,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,M. Garcia
+ORD-100369,2026-05-02,CUST-0162,North America,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,"$2,400.00",completed,,,L. Chen
+ORD-100226,05/08/2026,CUST-0285,Europe,partner,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,cancelled,,,J. Kim
+ORD-100878,2026-06-17,CUST-0240,Europe,partner,SKU-1003,ML Training Credits,2,800.00,0.00,"$1,600.00",cancelled,,,L. Chen
+ORD-100889,2026-08-02,CUST-0218,Asia Pacific,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.10,$585.00,COMPLETED,,,A. Patel
+ORD-100602,2026-08-29,CUST-0086,Latin America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,M. Garcia
+ORD-101027,2026-10-21,CUST-0164,apac,direct,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,cancelled,,,S. Okafor
+ORD-100114,2026-05-22,CUST-0270,North America,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,$255.00,COMPLETED,,,S. Okafor
+ORD-100992,2026-08-03,CUST-0110,EMEA,marketplace,SKU-1005,Premium Support,3,2500.00,0.10,"$6,750.00",completed,,,
+ORD-100256,2026-06-22,CUST-0011,North America,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.15,$765.00,completed,,,L. Chen
+ORD-100074,05-Sep-2026,CUST-0118,Asia Pacific,direct,SKU-1006,Data Sharing Pack,10,650.00,0.10,5850.00,refunded,5850.00,duplicate charge,
+ORD-100252,2026-08-22,CUST-0214,LATAM,partner,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,S. Okafor
+ORD-100367,2026-06-10,CUST-0181,NA ,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.15,$510.00,completed,,,
+ORD-101178,2026-08-01,CUST-0077,N. America,marketplace,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,J. Kim
+ORD-101120,06/13/2026,CUST-0252,EMEA,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,refunded,2400.00,not as described,J. Kim
+ORD-100198,2026-08-21,CUST-0122,LATAM,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,refunded,300.00,duplicate charge,J. Kim
+ORD-100197,08/02/2026,CUST-0226,north america,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,J. Kim
+ORD-100316,2026-05-31,CUST-0170,North America,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,L. Chen
+ORD-100269,2026-09-28,CUST-0334,North America,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,completed,,,L. Chen
+ORD-100728,2026-05-03,CUST-0193,north america,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.10,$810.00,completed,,,S. Okafor
+ORD-100434,2026-10-15,CUST-0124,north america,direct,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,M. Garcia
+ORD-100492,2026-06-04,CUST-0148,LATAM,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,M. Garcia
+ORD-100948,2026-07-05,CUST-0188,Asia Pacific,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,L. Chen
+ORD-100052,12-Sep-2026,CUST-0100,NA ,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,
+ORD-100350,2026-08-20,CUST-0331,N. America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,COMPLETED,,,
+ORD-100909,09/15/2026,CUST-0332,Asia Pacific,web,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,3600.00,completed,,,A. Patel
+ORD-100694,10/30/2026,CUST-0287,NA ,direct,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,S. Okafor
+ORD-100285,2026-08-15,CUST-0302,APAC,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-100218,07/03/2026,CUST-0139,EMEA,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,A. Patel
+ORD-100963,05/22/2026,CUST-0249,north america,marketplace,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,M. Garcia
+ORD-100745,2026-06-03,CUST-0184,EMEA,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,pending,,,J. Kim
+ORD-101063,2026-10-25,CUST-0001,North America,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,REFUNDED,1300,duplicate charge,S. Okafor
+ORD-100876,09/19/2026,CUST-0047,Asia Pacific,partner,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,refunded,405.00,damaged,L. Chen
+ORD-100018,2026-10-17,CUST-0152,EMEA,web,SKU-1006,Data Sharing Pack,10,650.00,0.10,5850.00,completed,,,
+ORD-101123,2026-05-28,CUST-0038,NA ,direct,SKU-1005,Premium Support,5,2500.00,0.00,12500.00,pending,,,
+ORD-100940,2026-06-23,CUST-0205,north america,partner,SKU-1004,Dashboard Seats (10),3,300.00,0.15,$765.00,completed,,,A. Patel
+ORD-100934,2026-09-07,CUST-0276,emea,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,refunded,2400.00,damaged,L. Chen
+ORD-100954,2026-06-02,CUST-0224,Asia Pacific,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400,refunded,2400.00,duplicate charge,J. Kim
+ORD-100107,2026-10-07,CUST-0225,North America,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,S. Okafor
+ORD-100280,2026-09-04,CUST-0252,emea,partner,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,refunded,855.00,changed mind,S. Okafor
+ORD-100501,2026-07-12,CUST-0024,EMEA,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,A. Patel
+ORD-100445,2026-09-15,CUST-0037,EMEA,partner,SKU-1005,Premium Support,1,2500.00,0.15,N/A,COMPLETED,,,L. Chen
+ORD-100530,2026-10-29,CUST-0058,Asia Pacific,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,COMPLETED,,,M. Garcia
+ORD-100410,2026-09-30,CUST-0024,North America,direct,SKU-1003,ML Training Credits,5,800.00,0.15,3400.00,refunded,3400.00,duplicate charge,M. Garcia
+ORD-100597,2026-06-17,CUST-0006,APAC,direct,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,refunded,617.50,duplicate charge,
+ORD-100424,2026-08-25,CUST-0218,LATAM,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,refunded,1140.00,not as described,J. Kim
+ORD-100037,2026-07-10,CUST-0321,EMEA,direct,SKU-1003,ML Training Credits,3,800.00,0.15,2040.00,completed,,,J. Kim
+ORD-100423,2026-08-01,CUST-0065,north america,web,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,REFUNDED,427.50,changed mind,
+ORD-100466,05/23/2026,CUST-0148,LATAM,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,J. Kim
+ORD-101045,26-Jun-2026,CUST-0071,Asia Pacific,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,
+ORD-100763,2026-10-30,CUST-0125,Europe,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,COMPLETED,,,S. Okafor
+ORD-100894,07/26/2026,CUST-0217,N. America,web,SKU-1005,Premium Support,10,2500.00,0.00,25000.00,cancelled,,,
+ORD-100038,2026-06-29,CUST-0110,North America,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,S. Okafor
+ORD-100119,2026-05-27,CUST-0157,N. America,marketplace,SKU-1002,Streaming Add-on,-2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-100450,2026-10-25,CUST-0139,Asia Pacific,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,L. Chen
+ORD-100332,10/21/2026,CUST-0212,NA ,web,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,M. Garcia
+ORD-100576,08/24/2026,CUST-0318,apac,partner,SKU-1005,Premium Support,10,2500.00,0.10,22500.00,completed,,,S. Okafor
+ORD-100895,2026-09-24,CUST-0264,Asia Pacific,partner,SKU-1004,Dashboard Seats (10),10,300.00,0.00,3000.00,COMPLETED,,,L. Chen
+ORD-100711,2026-08-14,CUST-0071,north america,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,L. Chen
+ORD-100660,10/21/2026,CUST-0193,N. America,partner,SKU-1006,Data Sharing Pack,3,650.00,0.00,"$1,950.00",COMPLETED,,,S. Okafor
+ORD-100713,07/29/2026,CUST-0072,emea,marketplace,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,completed,,,S. Okafor
+ORD-100411,2026-10-19,CUST-0141,North America,web,SKU-1005,Premium Support,1,2500.00,0.05,2375,completed,,,A. Patel
+ORD-100731,06/24/2026,CUST-0217,NA ,direct,SKU-1003,ML Training Credits,3,800.00,0.05,2280.00,COMPLETED,,,A. Patel
+ORD-100022,08/21/2026,CUST-0314,Asia Pacific,web,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,refunded,$450.00,damaged,J. Kim
+ORD-100021,2026-05-19,CUST-0289,North America,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,J. Kim
+ORD-100110,06/26/2026,CUST-0014,apac,web,SKU-1002,Streaming Add-on,3,450.00,0.00,1350.00,completed,,,S. Okafor
+ORD-100004,05/12/2026,CUST-0041,APAC,web,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,M. Garcia
+ORD-100436,10/01/2026,CUST-0062,LATAM,partner,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250.00,completed,,,
+ORD-100478,08/27/2026,CUST-0071,north america,partner,SKU-1003,ML Training Credits,-1,800.00,0.10,$720.00,completed,,,S. Okafor
+ORD-100070,2026-05-26,CUST-0015,North America,direct,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.15,"$3,060.00",completed,,,M. Garcia
+ORD-101106,08/28/2026,CUST-0222,APAC,direct,SKU-1003,ML Training Credits,-1,800.00,0.00,800.00,cancelled,,,S. Okafor
+ORD-100171,2026-05-28,CUST-0124,north america,direct,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",cancelled,,,S. Okafor
+ORD-100566,08/16/2026,CUST-0146,north america,partner,SKU-1002,Streaming Add-on,1,450.00,0.10,$405.00,completed,,,A. Patel
+ORD-100355,06/20/2026,CUST-0267,LATAM,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,M. Garcia
+ORD-101036,08/27/2026,CUST-0137,North America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,M. Garcia
+ORD-100043,11-May-2026,CUST-0103,North America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,A. Patel
+ORD-101111,2026-08-18,CUST-0108,EMEA,web,SKU-1004,Dashboard Seats (10),3,300.00,0.00,900.00,COMPLETED,,,
+ORD-100467,2026-07-15,CUST-0068,apac,direct,SKU-1005,Premium Support,10,2500.00,0.00,25000.00,completed,,,A. Patel
+ORD-100497,05/26/2026,CUST-0256,Europe,web,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250,completed,,,
+ORD-100491,17-Jun-2026,CUST-0093,apac,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,S. Okafor
+ORD-100156,08/16/2026,CUST-0230,apac,marketplace,SKU-1006,Data Sharing Pack,10,650.00,0.15,5525.00,completed,,,L. Chen
+ORD-100729,05/28/2026,CUST-0204,N. America,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,COMPLETED,,,M. Garcia
+ORD-100672,11-Oct-2026,CUST-0140,north america,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,COMPLETED,,,J. Kim
+ORD-100092,2026-05-18,CUST-0016,North America,partner,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,J. Kim
+ORD-100849,2026-07-19,CUST-0012,emea,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,COMPLETED,,,
+ORD-100579,01-Oct-2026,CUST-0069,North America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,COMPLETED,,,J. Kim
+ORD-100431,2026-09-04,CUST-0197,north america,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-100365,20-May-2026,CUST-0050,North America,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,cancelled,,,L. Chen
+ORD-100580,09/15/2026,CUST-0334,APAC,web,SKU-1006,Data Sharing Pack,1,650.00,0.05,$617.50,completed,,,S. Okafor
+ORD-100803,2026-08-15,CUST-0042,Europe,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",completed,,,A. Patel
+ORD-100781,2026-07-06,CUST-0089,Europe,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,cancelled,,,L. Chen
+ORD-100811,2026-08-21,CUST-0059,APAC,marketplace,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.15,"$10,200.00",completed,,,L. Chen
+ORD-101026,2026-07-28,CUST-0221,APAC,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,cancelled,,,A. Patel
+ORD-100494,2026-08-10,CUST-0044,North America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,A. Patel
+ORD-100217,2026-05-04,CUST-0197,north america,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",completed,,,L. Chen
+ORD-100661,2026-08-20,CUST-0207,north america,web,SKU-1005,Premium Support,2,2500.00,0.10,4500.00,pending,,,M. Garcia
+ORD-100376,2026-06-13,CUST-0227,north america,marketplace,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,pending,,,J. Kim
+ORD-100174,2026-09-17,CUST-0162,North America,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,
+ORD-100324,2026-10-22,CUST-0283,Europe,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,S. Okafor
+ORD-100278,2026-08-21,CUST-0161,North America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285,completed,,,M. Garcia
+ORD-100967,2026-07-31,CUST-0128,apac,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,completed,,,
+ORD-100514,2026-08-04,CUST-0280,N. America,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,completed,,,J. Kim
+ORD-100638,2026-10-18,CUST-0234,north america,direct,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,
+ORD-100722,2026-05-07,CUST-0301,APAC,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,A. Patel
+ORD-100142,2026-07-03,CUST-0153,apac,partner,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,S. Okafor
+ORD-100633,2026-08-10,,Asia Pacific,marketplace,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.00,"$12,000.00",completed,,,S. Okafor
+ORD-100771,2026-06-06,CUST-0220,NA ,web,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,pending,,,A. Patel
+ORD-100678,05/02/2026,CUST-0177,EMEA,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,
+ORD-100453,08/25/2026,CUST-0276,north america,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,A. Patel
+ORD-100882,2026-07-18,CUST-0105,emea,web,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,completed,,,L. Chen
+ORD-100426,2026-06-06,CUST-0144,N. America,web,SKU-1004,Dashboard Seats (10),10,300.00,0.00,3000.00,completed,,,J. Kim
+ORD-100519,2026-05-29,CUST-0333,north america,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,completed,,,S. Okafor
+ORD-100819,06/28/2026,CUST-0133,apac,web,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,completed,,,M. Garcia
+ORD-100060,2026-08-22,CUST-0300,emea,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.15,382,cancelled,,,S. Okafor
+ORD-100427,2026-09-16,CUST-0028,emea,web,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,S. Okafor
+ORD-100872,2026-06-17,CUST-0011,north america,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,A. Patel
+ORD-100818,2026-07-06,CUST-0323,north america,partner,SKU-1003,ML Training Credits,3,800.00,0.00,"$2,400.00",refunded,2400.00,damaged,J. Kim
+ORD-100141,2026-08-31,CUST-0089,emea,direct,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,
+ORD-101094,2026-08-06,CUST-0013,north america,web,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-100977,08/28/2026,CUST-0236,,marketplace,SKU-1006,Data Sharing Pack,10,650.00,0.00,6500.00,completed,,,J. Kim
+ORD-101171,2026-06-02,CUST-0311,North America,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,COMPLETED,,,L. Chen
+ORD-100527,2026-08-28,CUST-0272,N. America,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-100746,14-May-2026,CUST-0322,North America,web,SKU-1004,Dashboard Seats (10),3,300.00,0.15,765.00,completed,,,A. Patel
+ORD-100752,2026-07-19,CUST-0250,N. America,marketplace,SKU-1005,Premium Support,3,2500.00,0.10,6750.00,completed,,,M. Garcia
+ORD-100689,08/13/2026,CUST-0119,EMEA,direct,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.05,3420.00,COMPLETED,,,S. Okafor
+ORD-100279,2026-07-03,CUST-0329,emea,partner,SKU-1005,Premium Support,1,2500.00,0.15,"$2,125.00",completed,,,L. Chen
+ORD-101156,2026-06-26,CUST-0329,north america,web,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,pending,,,M. Garcia
+ORD-101163,2026-07-01,CUST-0278,APAC,web,SKU-1005,Premium Support,2,2500.00,0.15,"$4,250.00",completed,,,J. Kim
+ORD-100135,2026-06-19,CUST-0198,N. America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,L. Chen
+ORD-101149,2026-09-29,CUST-0138,APAC,web,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,L. Chen
+ORD-100485,09/19/2026,CUST-0214,apac,web,SKU-1005,Premium Support,3,2500.00,0.15,6375.00,completed,,,A. Patel
+ORD-100670,2026-08-17,CUST-0105,North America,direct,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.15,5100,cancelled,,,J. Kim
+ORD-100990,09/05/2026,CUST-0029,North America,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,pending,,,L. Chen
+ORD-100542,10/24/2026,CUST-0045,north america,partner,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,A. Patel
+ORD-100393,2026-08-24,CUST-0104,emea,web,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,
+ORD-100942,05/05/2026,CUST-0205,North America,direct,SKU-1003,ML Training Credits,2,800.00,0.05,1520.00,completed,,,A. Patel
+ORD-100892,2026-05-10,CUST-0090,North America,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,S. Okafor
+ORD-101077,06/07/2026,CUST-0075,EMEA,marketplace,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,completed,,,L. Chen
+ORD-100985,2026-10-01,CUST-0226,LATAM,partner,SKU-1001,Lakehouse Starter Kit,-5,1200.00,0.00,"$6,000.00",completed,,,L. Chen
+ORD-100090,10/16/2026,CUST-0180,NA ,web,SKU-1005,Premium Support,2,2500.00,0.00,"$5,000.00",completed,,,S. Okafor
+ORD-100760,2026-10-24,CUST-0046,north america,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",completed,,,A. Patel
+ORD-101080,05/22/2026,CUST-0329,North America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,
+ORD-100719,2026-07-09,CUST-0309,NA ,web,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,A. Patel
+ORD-100273,2026-06-30,CUST-0057,Asia Pacific,marketplace,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250.00,COMPLETED,,,L. Chen
+ORD-100979,2026-07-19,CUST-0170,LATAM,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,completed,,,
+ORD-101042,05/15/2026,CUST-0255,EMEA,web,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,completed,,,J. Kim
+ORD-100325,2026-06-05,CUST-0118,N. America,partner,SKU-1003,ML Training Credits,3,800.00,0.05,2280.00,refunded,"$2,280.00",damaged,J. Kim
+ORD-100743,2026-08-08,CUST-0163,Asia Pacific,partner,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,PENDING,,,J. Kim
+ORD-101064,2026-05-07,CUST-0107,north america,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,A. Patel
+ORD-101013,2026-10-24,CUST-0059,Europe,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,REFUNDED,600.00,changed mind,S. Okafor
+ORD-100100,2026-09-29,CUST-0159,emea,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,M. Garcia
+ORD-100538,2026-09-11,CUST-0283,LATAM,web,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250.00,completed,,,S. Okafor
+ORD-100488,2026-08-29,CUST-0034,NA ,web,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",completed,,,L. Chen
+ORD-100918,15-Sep-2026,CUST-0029,N. America,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,refunded,1080.00,duplicate charge,J. Kim
+ORD-100220,2026-09-17,CUST-0004,emea,web,SKU-1005,Premium Support,10,2500.00,0.00,25000.00,completed,,,
+ORD-100615,03-Jul-2026,CUST-0252,N. America,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.10,3240.00,completed,,,M. Garcia
+ORD-100178,2026-08-01,CUST-0158,apac,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,$900.00,completed,,,A. Patel
+ORD-101192,2026-10-24,CUST-0255,apac,direct,SKU-1005,Premium Support,5,2500.00,0.00,"$12,500.00",completed,,,
+ORD-100110,06/26/2026,CUST-0014,apac,web,SKU-1002,Streaming Add-on,3,450.00,0.00,1350.00,completed,,,S. Okafor
+ORD-100208,2026-08-14,CUST-0112,North America,web,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,
+ORD-101078,2026-06-27,CUST-0222,EMEA,direct,SKU-1004,Dashboard Seats (10),3,300.00,0.00,$900.00,REFUNDED,900.00,not as described,S. Okafor
+ORD-100335,2026-05-11,CUST-0162,emea,direct,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,refunded,"$2,250.00",not as described,S. Okafor
+ORD-100949,06/27/2026,CUST-0207,NA ,web,SKU-1002,Streaming Add-on,3,450.00,0.00,1350.00,completed,,,
+ORD-100868,2026-06-09,CUST-0068,North America,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.15,"$2,040.00",completed,,,S. Okafor
+ORD-101180,2026-09-20,CUST-0009,north america,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,completed,,,A. Patel
+ORD-100334,06/22/2026,CUST-0317,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,completed,,,A. Patel
+ORD-100091,20-Sep-2026,CUST-0137,LATAM,partner,SKU-1005,Premium Support,2,2500.00,0.15,4250.00,completed,,,M. Garcia
+ORD-100981,10/14/2026,CUST-0170,APAC,web,SKU-1002,Streaming Add-on,3,450.00,0.00,"$1,350.00",cancelled,,,
+ORD-100666,2026-06-01,CUST-0335,EMEA,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,A. Patel
+ORD-100216,2026-08-25,CUST-0291,EMEA,direct,SKU-1005,Premium Support,2,2500.00,0.05,4750.00,completed,,,L. Chen
+ORD-100373,13-May-2026,CUST-0229,North America,partner,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,J. Kim
+ORD-100965,2026-10-29,CUST-0202,North America,direct,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,cancelled,,,S. Okafor
+ORD-100790,2026-09-04,CUST-0198,,web,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,completed,,,J. Kim
+ORD-100653,2026-07-20,CUST-0001,emea,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,cancelled,,,S. Okafor
+ORD-100593,2026-10-06,CUST-0023,EMEA,partner,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,
+ORD-100342,2026-07-30,CUST-0229,EMEA,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,J. Kim
+ORD-100535,09/03/2026,CUST-0159,north america,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,L. Chen
+ORD-100204,2026-08-18,CUST-0068,Asia Pacific,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
+ORD-101048,2026-07-06,CUST-0232,APAC,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,L. Chen
+ORD-100922,2026-09-07,CUST-0331,emea,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,$600.00,completed,,,M. Garcia
+ORD-100496,2026-08-11,CUST-0208,apac,direct,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,A. Patel
+ORD-101144,2026-09-27,CUST-0142,NA ,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",completed,,,L. Chen
+ORD-101006,08-Oct-2026,CUST-0216,apac,marketplace,SKU-1002,Streaming Add-on,10,450.00,0.00,4500.00,completed,,,S. Okafor
+ORD-101175,2026-10-02,CUST-0181,apac,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,L. Chen
+ORD-100904,2026-08-11,CUST-0172,apac,partner,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,COMPLETED,,,L. Chen
+ORD-100766,2026-05-05,CUST-0015,N. America,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,refunded,2400.00,not as described,S. Okafor
+ORD-100123,28-Oct-2026,CUST-0147,N. America,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,S. Okafor
+ORD-100314,2026-09-26,CUST-0335,emea,direct,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,A. Patel
+ORD-101016,2026-08-15,CUST-0130,LATAM,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270,pending,,,A. Patel
+ORD-100008,2026-10-08,CUST-0306,North America,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,3600.00,completed,,,L. Chen
+ORD-101055,2026-08-05,CUST-0239,emea,partner,SKU-1002,Streaming Add-on,1,450.00,0.15,382,completed,,,A. Patel
+ORD-101058,2026-06-07,CUST-0209,north america,marketplace,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,completed,,,M. Garcia
+ORD-101072,2026-09-22,CUST-0221,,direct,SKU-1006,Data Sharing Pack,10,650.00,0.10,5850.00,completed,,,S. Okafor
+ORD-101162,28-Sep-2026,CUST-0330,N. America,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,L. Chen
+ORD-100329,09/18/2026,CUST-0299,NA ,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650,completed,,,L. Chen
+ORD-101098,2026-06-15,CUST-0217,APAC,partner,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,L. Chen
+ORD-101060,07-Sep-2026,CUST-0075,Asia Pacific,direct,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,cancelled,,,J. Kim
+ORD-100573,08/05/2026,CUST-0027,north america,partner,SKU-1004,Dashboard Seats (10),5,300.00,0.00,"$1,500.00",cancelled,,,S. Okafor
+ORD-101093,2026-10-03,CUST-0040,Europe,marketplace,SKU-1005,Premium Support,1,2500.00,0.05,2375.00,completed,,,J. Kim
+ORD-100270,2026-05-06,CUST-0228,emea,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.15,2040.00,completed,,,J. Kim
+ORD-100919,09/19/2026,CUST-0033,EMEA,direct,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.00,12000.00,completed,,,L. Chen
+ORD-100502,2026-07-31,CUST-0126,EMEA,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,
+ORD-100736,2026-07-29,CUST-0296,EMEA,direct,SKU-1002,Streaming Add-on,2,450.00,0.00,$900.00,COMPLETED,,,M. Garcia
+ORD-101135,06/09/2026,CUST-0002,EMEA,web,SKU-1005,Premium Support,2,2500.00,0.00,"$5,000.00",refunded,"$5,000.00",duplicate charge,A. Patel
+ORD-100797,2026-09-03,CUST-0104,Europe,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-101130,2026-09-24,CUST-0303,north america,marketplace,SKU-1004,Dashboard Seats (10),5,300.00,0.10,1350.00,completed,,,A. Patel
+ORD-101068,2026-08-24,CUST-0006,Europe,partner,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,A. Patel
+ORD-100109,2026-06-05,CUST-0247,NA ,web,SKU-1002,Streaming Add-on,3,450.00,0.10,1215.00,refunded,1215.00,damaged,J. Kim
+ORD-100517,07/10/2026,CUST-0252,apac,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,refunded,650.00,damaged,J. Kim
+ORD-100229,2026-05-09,CUST-0332,NA ,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,A. Patel
+ORD-100923,09/02/2026,CUST-0261,emea,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,COMPLETED,,,S. Okafor
+ORD-101191,2026-09-12,CUST-0095,LATAM,web,SKU-1004,Dashboard Seats (10),3,300.00,0.15,765,REFUNDED,765.00,changed mind,A. Patel
+ORD-100623,2026-06-21,CUST-0008,apac,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,COMPLETED,,,A. Patel
+ORD-100543,2026-06-07,CUST-0321,north america,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,S. Okafor
+ORD-100999,2026-08-03,CUST-0306,APAC,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,"$1,080.00",completed,,,A. Patel
+ORD-100651,2026-09-14,CUST-0171,EMEA,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,
+ORD-100227,04-Aug-2026,CUST-0044,NA ,web,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,COMPLETED,,,
+ORD-100947,2026-07-29,CUST-0034,EMEA,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,refunded,$450.00,changed mind,J. Kim
+ORD-101096,09/13/2026,CUST-0196,NA ,web,SKU-1005,Premium Support,2,2500.00,0.10,"$4,500.00",COMPLETED,,,J. Kim
+ORD-100846,08/14/2026,CUST-0007,North America,web,SKU-1002,Streaming Add-on,5,450.00,0.00,"$2,250.00",completed,,,L. Chen
+ORD-100702,2026-06-17,CUST-0292,apac,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,COMPLETED,,,J. Kim
+ORD-100853,2026-05-10,CUST-0209,North America,direct,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,S. Okafor
+ORD-101195,2026-06-07,CUST-0172,NA ,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.10,810.00,completed,,,A. Patel
+ORD-100352,2026-09-03,CUST-0026,Europe,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,M. Garcia
+ORD-101033,2026-10-01,CUST-0192,north america,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,A. Patel
+ORD-100495,07/26/2026,CUST-0207,APAC,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,completed,,,M. Garcia
+ORD-100883,2026-08-29,CUST-0109,N. America,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,A. Patel
+ORD-100933,2026-05-06,CUST-0219,N. America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.10,$585.00,completed,,,A. Patel
+ORD-100780,07/09/2026,CUST-0222,Asia Pacific,web,SKU-1002,Streaming Add-on,10,450.00,0.15,3825.00,COMPLETED,,,M. Garcia
+ORD-100813,05/07/2026,CUST-0173,NA ,partner,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,cancelled,,,L. Chen
+ORD-101021,2026-07-27,CUST-0080,Asia Pacific,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,refunded,1200.00,damaged,A. Patel
+ORD-101054,2026-06-14,CUST-0121,emea,direct,SKU-1006,Data Sharing Pack,3,650.00,0.05,1852.50,completed,,,S. Okafor
+ORD-101014,2026-08-21,CUST-0011,N. America,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,"$2,400.00",completed,,,M. Garcia
+ORD-100825,2026-08-01,CUST-0040,emea,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,S. Okafor
+ORD-100914,2026-07-05,CUST-0109,Europe,direct,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,COMPLETED,,,M. Garcia
+ORD-100106,05/20/2026,CUST-0260,Europe,web,SKU-1002,Streaming Add-on,10,450.00,0.00,4500.00,completed,,,L. Chen
+ORD-100884,07/12/2026,CUST-0218,,web,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,L. Chen
+ORD-100794,2026-07-06,CUST-0298,emea,marketplace,SKU-1005,Premium Support,3,2500.00,0.10,6750.00,COMPLETED,,,
+ORD-100200,10/15/2026,CUST-0128,north america,direct,SKU-1004,Dashboard Seats (10),5,300.00,0.00,"$1,500.00",completed,,,
+ORD-100228,2026-05-13,CUST-0203,N. America,web,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,M. Garcia
+ORD-100401,07/13/2026,CUST-0133,NA ,partner,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,
+ORD-100692,2026-09-13,CUST-0142,EMEA,marketplace,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,completed,,,
+ORD-100590,2026-05-16,CUST-0155,Asia Pacific,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,cancelled,,,L. Chen
+ORD-100546,2026-05-17,CUST-0243,EMEA,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,completed,,,S. Okafor
+ORD-101044,10-Jun-2026,CUST-0134,EMEA,partner,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.05,3420.00,completed,,,A. Patel
+ORD-100650,2026-10-27,CUST-0015,north america,direct,SKU-1002,Streaming Add-on,1,450.00,0.15,$382.50,completed,,,J. Kim
+ORD-100253,06/10/2026,CUST-0207,APAC,web,SKU-1003,ML Training Credits,3,800.00,0.10,2160.00,completed,,,J. Kim
+ORD-100654,2026-09-11,CUST-0055,N. America,web,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,J. Kim
+ORD-100697,08/25/2026,CUST-0133,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,completed,,,A. Patel
+ORD-100968,2026-10-13,CUST-0179,north america,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.10,$405.00,completed,,,L. Chen
+ORD-100627,2026-10-10,CUST-0247,EMEA,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,S. Okafor
+ORD-100362,2026-07-22,CUST-0050,Europe,web,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-100144,2026-06-24,CUST-0288,Asia Pacific,direct,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,completed,,,L. Chen
+ORD-100708,2026-05-12,CUST-0272,emea,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,
+ORD-100404,2026-07-27,CUST-0015,north america,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,
+ORD-101157,2026-08-12,CUST-0055,north america,direct,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,
+ORD-100472,21-Jul-2026,CUST-0280,NA ,direct,SKU-1004,Dashboard Seats (10),3,300.00,0.05,855.00,completed,,,L. Chen
+ORD-100837,10-May-2026,CUST-0267,emea,partner,SKU-1001,Lakehouse Starter Kit,-2,1200.00,0.00,"$2,400.00",completed,,,
+ORD-100701,2026-06-26,CUST-0323,emea,partner,SKU-1005,Premium Support,2,2500.00,0.05,4750.00,completed,,,S. Okafor
+ORD-100924,2026-09-15,CUST-0056,north america,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,refunded,$255.00,changed mind,A. Patel
+ORD-100258,08-Sep-2026,CUST-0192,Asia Pacific,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,pending,,,A. Patel
+ORD-101061,05/21/2026,CUST-0257,Europe,web,SKU-1002,Streaming Add-on,3,450.00,0.05,1282.50,refunded,1282.50,duplicate charge,
+ORD-100384,2026-06-22,CUST-0104,APAC,direct,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,J. Kim
+ORD-101029,2026-08-07,CUST-0072,apac,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255,completed,,,S. Okafor
+ORD-100181,2026-10-08,CUST-0235,EMEA,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,M. Garcia
+ORD-100877,2026-08-04,CUST-0018,NA ,web,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,A. Patel
+ORD-101057,09/03/2026,CUST-0025,emea,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,completed,,,S. Okafor
+ORD-100172,06/27/2026,CUST-0042,LATAM,web,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,completed,,,S. Okafor
+ORD-100128,2026-07-12,CUST-0326,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,refunded,585.00,duplicate charge,L. Chen
+ORD-100032,2026-08-12,CUST-0147,EMEA,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,$900.00,completed,,,M. Garcia
+ORD-101052,2026-08-22,CUST-0082,North America,web,SKU-1003,ML Training Credits,5,800.00,0.00,4000.00,completed,,,S. Okafor
+ORD-100583,05/02/2026,CUST-0203,EMEA,direct,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,L. Chen
+ORD-100944,2026-06-09,CUST-0020,North America,partner,SKU-1005,Premium Support,1,2500.00,0.10,"$2,250.00",completed,,,M. Garcia
+ORD-100373,13-May-2026,CUST-0229,North America,partner,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,J. Kim
+ORD-101197,2026-05-25,CUST-0010,North America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,$552.50,COMPLETED,,,J. Kim
+ORD-100391,2026-05-11,CUST-0323,North America,partner,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,M. Garcia
+ORD-100742,2026-10-01,CUST-0293,N. America,partner,SKU-1003,ML Training Credits,3,800.00,0.10,2160.00,completed,,,L. Chen
+ORD-100370,06/05/2026,CUST-0128,north america,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",COMPLETED,,,S. Okafor
+ORD-100727,09-Sep-2026,CUST-0192,EMEA,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,refunded,$650.00,damaged,L. Chen
+ORD-100755,2026-06-29,CUST-0309,EMEA,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,L. Chen
+ORD-100276,2026-08-31,CUST-0086,LATAM,partner,SKU-1003,ML Training Credits,3,800.00,0.15,2040.00,COMPLETED,,,J. Kim
+ORD-100054,2026-08-11,CUST-0028,north america,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,A. Patel
+ORD-100378,06/22/2026,CUST-0281,N. America,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-101002,2026-06-13,CUST-0020,north america,web,SKU-1005,Premium Support,2,2500.00,0.10,4500.00,COMPLETED,,,A. Patel
+ORD-100641,2026-09-03,CUST-0214,N. America,direct,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,M. Garcia
+ORD-100191,2026-08-08,CUST-0143,Europe,web,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,completed,,,L. Chen
+ORD-100705,2026-05-22,CUST-0289,N. America,partner,SKU-1006,Data Sharing Pack,3,650.00,0.15,1657.50,completed,,,J. Kim
+ORD-100409,2026-07-19,CUST-0051,north america,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,completed,,,
+ORD-101049,2026-06-22,CUST-0153,north america,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,COMPLETED,,,
+ORD-100537,2026-06-09,CUST-0332,Europe,web,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,cancelled,,,S. Okafor
+ORD-101017,18-Jul-2026,CUST-0173,APAC,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.15,2040.00,completed,,,S. Okafor
+ORD-100998,2026-09-05,CUST-0019,N. America,marketplace,SKU-1002,Streaming Add-on,10,450.00,0.10,4050.00,completed,,,S. Okafor
+ORD-100723,10/22/2026,CUST-0083,NA ,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,completed,,,M. Garcia
+ORD-101087,2026-09-08,CUST-0027,emea,marketplace,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,S. Okafor
+ORD-101051,09/21/2026,CUST-0128,North America,web,SKU-1002,Streaming Add-on,5,450.00,0.05,"$2,137.50",completed,,,L. Chen
+ORD-100506,2026-09-13,CUST-0040,NA ,direct,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,J. Kim
+ORD-100740,08/06/2026,CUST-0064,NA ,marketplace,SKU-1002,Streaming Add-on,3,450.00,0.10,1215.00,completed,,,
+ORD-100591,06/29/2026,CUST-0320,APAC,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,refunded,$285.00,damaged,M. Garcia
+ORD-100529,2026-05-14,CUST-0094,North America,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.05,1235.00,completed,,,S. Okafor
+ORD-100328,01-Jul-2026,CUST-0045,NA ,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-100133,09/09/2026,CUST-0255,EMEA,web,SKU-1002,Streaming Add-on,3,450.00,0.05,"$1,282.50",completed,,,J. Kim
+ORD-100158,09-Jun-2026,CUST-0058,EMEA,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,A. Patel
+ORD-100510,27-Aug-2026,CUST-0217,North America,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,M. Garcia
+ORD-100518,2026-09-18,,EMEA,partner,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,J. Kim
+ORD-100447,08/18/2026,CUST-0206,emea,web,SKU-1005,Premium Support,1,2500.00,0.00,2500,completed,,,J. Kim
+ORD-100589,10/01/2026,CUST-0321,apac,web,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,COMPLETED,,,A. Patel
+ORD-101102,2026-09-18,CUST-0269,emea,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.05,$570.00,completed,,,
+ORD-100823,27-Jun-2026,CUST-0323,N. America,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,completed,,,A. Patel
+ORD-101146,2026-05-11,CUST-0278,LATAM,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,J. Kim
+ORD-101121,2026-09-09,CUST-0146,EMEA,marketplace,SKU-1003,ML Training Credits,1,800.00,0.15,$680.00,completed,,,
+ORD-100879,2026-07-02,CUST-0173,emea,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,J. Kim
+ORD-101141,2026-09-19,CUST-0320,North America,direct,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,S. Okafor
+ORD-100626,2026-07-17,CUST-0053,north america,direct,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.05,5700,completed,,,
+ORD-100507,2026-06-16,CUST-0265,north america,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,refunded,2250.00,changed mind,M. Garcia
+ORD-100473,07/26/2026,CUST-0021,APAC,web,SKU-1006,Data Sharing Pack,5,650.00,0.05,3087.50,completed,,,J. Kim
+ORD-100680,2026-07-14,CUST-0110,North America,marketplace,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,completed,,,
+ORD-101148,09/25/2026,CUST-0097,Latin America,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,
+ORD-100066,2026-08-23,CUST-0283,Europe,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,J. Kim
+ORD-100629,2026-08-05,CUST-0307,N. America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,A. Patel
+ORD-100080,08/15/2026,CUST-0316,emea,direct,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,S. Okafor
+ORD-101127,06/16/2026,CUST-0324,emea,direct,SKU-1003,ML Training Credits,5,800.00,0.15,"$3,400.00",completed,,,A. Patel
+ORD-100282,2026-09-21,CUST-0175,Latin America,web,SKU-1006,Data Sharing Pack,1,650.00,0.10,$585.00,completed,,,M. Garcia
+ORD-100758,2026-09-13,CUST-0036,N. America,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,M. Garcia
+ORD-100631,2026-05-17,CUST-0099,EMEA,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,refunded,450.00,duplicate charge,J. Kim
+ORD-100027,07/08/2026,CUST-0196,North America,marketplace,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,S. Okafor
+ORD-100939,09-Jul-2026,CUST-0182,EMEA,partner,SKU-1002,Streaming Add-on,1,450.00,0.05,$427.50,completed,,,A. Patel
+ORD-100673,07/18/2026,CUST-0049,NA ,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,A. Patel
+ORD-100830,28-Sep-2026,CUST-0043,EMEA,web,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,cancelled,,,
+ORD-100201,2026-08-05,CUST-0048,N. America,direct,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,completed,,,S. Okafor
+ORD-100867,2026-08-29,CUST-0252,north america,marketplace,SKU-1005,Premium Support,3,2500.00,0.15,6375.00,pending,,,L. Chen
+ORD-101038,2026-06-18,CUST-0062,emea,web,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,cancelled,,,L. Chen
+ORD-100829,2026-05-28,CUST-0182,N. America,marketplace,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,pending,,,S. Okafor
+ORD-100412,2026-07-12,CUST-0160,NA ,marketplace,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,COMPLETED,,,
+ORD-100875,2026-05-10,CUST-0080,Europe,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300,cancelled,,,
+ORD-100800,07/24/2026,CUST-0149,NA ,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,COMPLETED,,,J. Kim
+ORD-100098,2026-05-30,CUST-0179,NA ,partner,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,J. Kim
+ORD-100366,08/15/2026,CUST-0296,emea,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.10,810.00,completed,,,A. Patel
+ORD-100094,2026-05-29,,NA ,web,SKU-1005,Premium Support,1,2500.00,0.05,2375.00,completed,,,A. Patel
+ORD-101076,07/21/2026,CUST-0110,EMEA,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,cancelled,,,J. Kim
+ORD-100671,2026-06-11,CUST-0223,emea,web,SKU-1006,Data Sharing Pack,3,650.00,0.10,1755,completed,,,M. Garcia
+ORD-100712,08/16/2026,CUST-0113,Europe,web,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,COMPLETED,,,A. Patel
+ORD-100037,2026-07-10,CUST-0321,EMEA,direct,SKU-1003,ML Training Credits,3,800.00,0.15,2040.00,completed,,,J. Kim
+ORD-100469,2026-06-13,CUST-0191,NA ,web,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,completed,,,J. Kim
+ORD-101137,2026-05-23,CUST-0176,north america,partner,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,pending,,,
+ORD-100983,2026-05-25,CUST-0311,LATAM,web,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,COMPLETED,,,A. Patel
+ORD-100642,2026-08-24,CUST-0103,North America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,S. Okafor
+ORD-100958,06/05/2026,CUST-0125,emea,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,J. Kim
+ORD-100356,2026-06-01,CUST-0102,emea,web,SKU-1006,Data Sharing Pack,5,650.00,0.10,"$2,925.00",completed,,,A. Patel
+ORD-100291,2026-07-15,CUST-0184,emea,web,SKU-1002,Streaming Add-on,3,450.00,0.15,1147.50,completed,,,L. Chen
+ORD-100925,07/22/2026,CUST-0088,APAC,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-100663,2026-06-27,CUST-0294,N. America,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,COMPLETED,,,L. Chen
+ORD-100068,2026-05-26,CUST-0074,N. America,partner,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.05,5700.00,completed,,,M. Garcia
+ORD-100898,2026-09-28,CUST-0278,N. America,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.05,"$1,235.00",COMPLETED,,,M. Garcia
+ORD-100567,19-Jul-2026,CUST-0194,N. America,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,"$1,080.00",completed,,,S. Okafor
+ORD-100525,2026-07-05,CUST-0027,emea,partner,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,completed,,,L. Chen
+ORD-100625,2026-06-14,CUST-0007,N. America,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,COMPLETED,,,M. Garcia
+ORD-100754,2026-07-31,CUST-0191,NA ,partner,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,completed,,,M. Garcia
+ORD-100346,07/19/2026,CUST-0227,Europe,partner,SKU-1001,Lakehouse Starter Kit,-2,1200.00,0.05,2280.00,completed,,,A. Patel
+ORD-100621,2026-08-09,CUST-0006,Europe,direct,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,J. Kim
+ORD-101117,2026-09-02,CUST-0203,north america,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,refunded,800.00,duplicate charge,M. Garcia
+ORD-100134,2026-10-15,CUST-0005,North America,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,M. Garcia
+ORD-100664,2026-09-24,CUST-0276,EMEA,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",COMPLETED,,,L. Chen
+ORD-101139,2026-09-04,,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,$552.50,COMPLETED,,,J. Kim
+ORD-100520,2026-07-12,CUST-0094,,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,$900.00,completed,,,J. Kim
+ORD-100955,07/30/2026,CUST-0289,North America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,L. Chen
+ORD-100786,10/20/2026,CUST-0105,north america,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,
+ORD-100734,18-Oct-2026,CUST-0163,EMEA,partner,SKU-1005,Premium Support,2,2500.00,0.00,"$5,000.00",pending,,,S. Okafor
+ORD-100613,2026-05-15,CUST-0168,N. America,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.05,1235.00,completed,,,L. Chen
+ORD-100874,2026-06-15,CUST-0226,NA ,web,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,pending,,,M. Garcia
+ORD-101133,2026-06-15,CUST-0220,APAC,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,A. Patel
+ORD-100556,2026-06-08,CUST-0324,NA ,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.15,2040.00,cancelled,,,L. Chen
+ORD-100679,04-Jun-2026,CUST-0217,apac,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
+ORD-100236,20-Aug-2026,CUST-0333,NA ,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,L. Chen
+ORD-100748,2026-08-24,CUST-0006,EMEA,web,SKU-1004,Dashboard Seats (10),5,300.00,0.15,1275.00,completed,,,M. Garcia
+ORD-100709,2026-07-09,CUST-0136,Europe,web,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,cancelled,,,J. Kim
+ORD-100620,09/18/2026,CUST-0225,EMEA,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,J. Kim
+ORD-101161,2026-08-14,CUST-0212,North America,web,SKU-1005,Premium Support,5,2500.00,0.00,12500.00,refunded,12500.00,duplicate charge,J. Kim
+ORD-100339,20-Jun-2026,CUST-0077,apac,web,SKU-1005,Premium Support,1,2500.00,0.05,2375.00,completed,,,
+ORD-100039,10/26/2026,CUST-0295,apac,marketplace,SKU-1004,Dashboard Seats (10),5,300.00,0.10,1350.00,completed,,,S. Okafor
+ORD-100130,2026-07-14,CUST-0126,Europe,marketplace,SKU-1004,Dashboard Seats (10),5,300.00,0.10,1350.00,COMPLETED,,,A. Patel
+ORD-100163,2026-10-13,CUST-0190,North America,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,L. Chen
+ORD-100017,2026-09-01,CUST-0031,APAC,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,completed,,,S. Okafor
+ORD-100915,2026-06-13,CUST-0301,Europe,direct,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,pending,,,S. Okafor
+ORD-100296,05/24/2026,CUST-0340,emea,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,L. Chen
+ORD-100555,05/08/2026,CUST-0265,LATAM,web,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,completed,,,J. Kim
+ORD-100624,08/15/2026,CUST-0166,Asia Pacific,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-100639,10-Aug-2026,CUST-0042,north america,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.05,2280.00,completed,,,
+ORD-100441,2026-05-18,CUST-0247,APAC,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,A. Patel
+ORD-100241,2026-08-05,CUST-0048,NA ,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,
+ORD-100275,2026-10-17,CUST-0225,NA ,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,A. Patel
+ORD-100956,06-Oct-2026,CUST-0078,N. America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,S. Okafor
+ORD-100792,07/31/2026,CUST-0108,emea,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,J. Kim
+ORD-101022,2026-05-24,CUST-0222,north america,partner,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250.00,COMPLETED,,,M. Garcia
+ORD-100605,2026-08-18,CUST-0189,emea,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,COMPLETED,,,S. Okafor
+ORD-100571,2026-05-06,CUST-0013,Europe,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,COMPLETED,,,A. Patel
+ORD-100041,2026-06-02,CUST-0202,Asia Pacific,web,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,pending,,,S. Okafor
+ORD-100609,2026-08-15,CUST-0286,North America,direct,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,M. Garcia
+ORD-100774,09/10/2026,CUST-0306,,web,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,
+ORD-101196,2026-08-13,CUST-0188,Asia Pacific,web,SKU-1003,ML Training Credits,1,800.00,0.10,$720.00,cancelled,,,S. Okafor
+ORD-100952,2026-08-25,CUST-0061,NA ,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,M. Garcia
+ORD-100582,07/31/2026,CUST-0321,NA ,partner,SKU-1003,ML Training Credits,-2,800.00,0.15,1360.00,completed,,,M. Garcia
+ORD-100928,2026-08-04,CUST-0196,NA ,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",completed,,,S. Okafor
+ORD-100143,2026-09-24,CUST-0203,Latin America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,
+ORD-100585,2026-10-21,CUST-0287,N. America,web,SKU-1006,Data Sharing Pack,1,650.00,0.15,$552.50,completed,,,
+ORD-100821,2026-10-03,CUST-0209,,direct,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,L. Chen
+ORD-100179,2026-05-07,CUST-0306,NA ,marketplace,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,A. Patel
+ORD-100789,2026-06-01,CUST-0095,EMEA,partner,SKU-1004,Dashboard Seats (10),3,300.00,0.10,810.00,completed,,,L. Chen
+ORD-100667,13-Jun-2026,CUST-0001,north america,direct,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,M. Garcia
+ORD-100536,10/01/2026,CUST-0189,north america,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,COMPLETED,,,L. Chen
+ORD-100075,05/09/2026,CUST-0047,emea,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,J. Kim
+ORD-100751,2026-08-20,CUST-0099,emea,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,
+ORD-101095,2026-08-23,CUST-0131,NA ,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,cancelled,,,M. Garcia
+ORD-101157,2026-08-12,CUST-0055,north america,direct,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,
+ORD-100861,2026-10-05,CUST-0087,North America,partner,SKU-1005,Premium Support,2,2500.00,0.15,4250,COMPLETED,,,L. Chen
+ORD-100210,10/13/2026,CUST-0123,emea,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-101074,2026-08-23,CUST-0286,NA ,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-100108,07/19/2026,CUST-0100,apac,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,pending,,,S. Okafor
+ORD-101131,2026-05-02,CUST-0231,EMEA,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,COMPLETED,,,A. Patel
+ORD-100897,27-Aug-2026,CUST-0163,APAC,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,J. Kim
+ORD-100344,2026-08-01,CUST-0231,emea,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,COMPLETED,,,
+ORD-100796,2026-05-19,CUST-0324,North America,partner,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,S. Okafor
+ORD-100855,2026-05-10,CUST-0321,Europe,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,refunded,450.00,damaged,M. Garcia
+ORD-100375,2026-07-03,CUST-0221,NA ,web,SKU-1005,Premium Support,10,2500.00,0.10,22500.00,completed,,,M. Garcia
+ORD-100676,06/28/2026,CUST-0157,emea,direct,SKU-1003,ML Training Credits,10,800.00,0.10,"$7,200.00",completed,,,A. Patel
+ORD-100696,2026-06-12,CUST-0288,emea,marketplace,SKU-1005,Premium Support,5,2500.00,0.00,12500.00,completed,,,A. Patel
+ORD-100403,2026-09-21,CUST-0328,LATAM,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,COMPLETED,,,M. Garcia
+ORD-100089,2026-09-21,CUST-0211,NA ,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.10,$810.00,completed,,,M. Garcia
+ORD-100164,2026-10-19,CUST-0171,apac,web,SKU-1002,Streaming Add-on,3,450.00,0.10,1215.00,completed,,,
+ORD-100691,2026-07-04,CUST-0156,EMEA,web,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,cancelled,,,J. Kim
+ORD-100336,2026-08-31,CUST-0178,emea,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.05,2280.00,cancelled,,,L. Chen
+ORD-100358,2026-05-16,CUST-0275,EMEA,partner,SKU-1006,Data Sharing Pack,2,650.00,0.15,1105.00,completed,,,L. Chen
+ORD-100645,2026-08-03,CUST-0162,EMEA,direct,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,A. Patel
+ORD-100230,07/03/2026,CUST-0010,N. America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,M. Garcia
+ORD-100185,2026-08-31,CUST-0215,Europe,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,L. Chen
+ORD-100917,10/11/2026,CUST-0269,EMEA,partner,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,CANCELLED,,,
+ORD-100675,07/08/2026,CUST-0190,north america,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,completed,,,M. Garcia
+ORD-100087,10/15/2026,CUST-0111,emea,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,"$3,600.00",completed,,,S. Okafor
+ORD-100148,2026-06-11,CUST-0096,EMEA,direct,SKU-1002,Streaming Add-on,3,450.00,0.00,"$1,350.00",completed,,,J. Kim
+ORD-101067,2026-05-23,CUST-0043,EMEA,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,J. Kim
+ORD-100991,2026-05-13,CUST-0156,emea,partner,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,completed,,,
+ORD-101107,2026-06-19,CUST-0006,,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,A. Patel
+ORD-100783,2026-10-30,CUST-0239,emea,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,A. Patel
+ORD-100374,2026-08-11,CUST-0223,north america,partner,SKU-1005,Premium Support,2,2500.00,0.10,4500.00,completed,,,S. Okafor
+ORD-100016,07/11/2026,CUST-0039,N. America,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,A. Patel
+ORD-100812,08/07/2026,CUST-0197,apac,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,
+ORD-100151,31-May-2026,CUST-0189,Europe,partner,SKU-1006,Data Sharing Pack,3,650.00,0.15,1657.50,completed,,,J. Kim
+ORD-100827,2026-06-16,CUST-0062,Latin America,direct,SKU-1005,Premium Support,1,2500.00,0.00,"$2,500.00",refunded,2500.00,damaged,J. Kim
+ORD-100799,10/06/2026,CUST-0035,emea,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,refunded,600.00,duplicate charge,L. Chen
+ORD-100531,2026-10-17,CUST-0003,north america,marketplace,SKU-1005,Premium Support,3,2500.00,0.10,"$6,750.00",completed,,,S. Okafor
+ORD-101028,2026-06-28,CUST-0181,emea,marketplace,SKU-1005,Premium Support,10,2500.00,0.00,"$25,000.00",completed,,,S. Okafor
+ORD-101153,02-Jul-2026,CUST-0224,North America,direct,SKU-1006,Data Sharing Pack,3,650.00,0.15,1657.50,completed,,,A. Patel
+ORD-100435,2026-09-12,CUST-0113,Europe,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,COMPLETED,,,L. Chen
+ORD-100871,2026-05-01,CUST-0061,emea,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,L. Chen
+ORD-100133,09/09/2026,CUST-0255,EMEA,web,SKU-1002,Streaming Add-on,3,450.00,0.05,"$1,282.50",completed,,,J. Kim
+ORD-100717,2026-10-22,CUST-0133,NA ,partner,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,cancelled,,,A. Patel
+ORD-100490,05/04/2026,CUST-0145,EMEA,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080,COMPLETED,,,J. Kim
+ORD-100465,2026-08-29,CUST-0273,NA ,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,
+ORD-100122,2026-09-24,CUST-0161,NA ,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800,COMPLETED,,,J. Kim
+ORD-101104,2026-06-25,CUST-0076,N. America,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,J. Kim
+ORD-100413,2026-10-28,CUST-0229,NA ,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,
+ORD-100439,2026-08-19,CUST-0227,NA ,web,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,COMPLETED,,,
+ORD-100652,2026-08-20,CUST-0060,emea,web,SKU-1006,Data Sharing Pack,2,650.00,0.10,1170.00,completed,,,L. Chen
+ORD-100737,2026-08-14,CUST-0278,apac,direct,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,completed,,,S. Okafor
+ORD-101023,2026-10-02,CUST-0304,North America,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,COMPLETED,,,J. Kim
+ORD-101189,17-Sep-2026,CUST-0124,Europe,web,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-100720,2026-10-11,CUST-0044,Europe,web,SKU-1003,ML Training Credits,1,800.00,0.00,N/A,cancelled,,,A. Patel
+ORD-100805,2026-09-19,CUST-0194,Asia Pacific,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,J. Kim
+ORD-100505,2026-06-24,CUST-0294,emea,partner,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.10,3240.00,completed,,,
+ORD-100024,2026-06-03,CUST-0227,N. America,web,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,
+ORD-100757,2026-07-23,CUST-0011,NA ,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,A. Patel
+ORD-100461,08/12/2026,CUST-0321,Latin America,web,SKU-1004,Dashboard Seats (10),3,300.00,0.15,$765.00,COMPLETED,,,
+ORD-101004,04-Oct-2026,CUST-0326,N. America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.05,$617.50,completed,,,L. Chen
+ORD-101079,08/31/2026,CUST-0209,Asia Pacific,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-100235,2026-09-28,CUST-0057,Asia Pacific,direct,SKU-1003,ML Training Credits,1,800.00,0.00,800,completed,,,
+ORD-100347,2026-09-16,CUST-0070,north america,marketplace,SKU-1003,ML Training Credits,3,800.00,0.05,2280.00,cancelled,,,L. Chen
+ORD-100030,10/23/2026,CUST-0101,NA ,marketplace,SKU-1005,Premium Support,5,2500.00,0.10,11250.00,completed,,,M. Garcia
+ORD-100419,2026-07-23,CUST-0047,EMEA,partner,SKU-1005,Premium Support,3,2500.00,0.05,"$7,125.00",completed,,,
+ORD-100327,2026-06-14,CUST-0104,Europe,direct,SKU-1006,Data Sharing Pack,10,650.00,0.00,6500.00,completed,,,L. Chen
+ORD-100698,2026-06-07,CUST-0069,NA ,web,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,cancelled,,,J. Kim
+ORD-101113,2026-07-23,CUST-0302,Europe,direct,SKU-1006,Data Sharing Pack,1,650.00,0.15,$552.50,completed,,,J. Kim
+ORD-100182,2026-10-14,CUST-0165,north america,marketplace,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,pending,,,M. Garcia
+ORD-100528,2026-07-12,CUST-0136,Latin America,marketplace,SKU-1003,ML Training Credits,2,800.00,0.05,"$1,520.00",cancelled,,,S. Okafor
+ORD-100869,06/19/2026,CUST-0171,NA ,partner,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,"$3,600.00",completed,,,M. Garcia
+ORD-100118,2026-08-21,CUST-0096,N. America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,refunded,760.00,damaged,
+ORD-100249,2026-08-15,CUST-0299,EMEA,web,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,completed,,,M. Garcia
+ORD-100553,2026-06-05,CUST-0213,APAC,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,$900.00,completed,,,M. Garcia
+ORD-101073,23-May-2026,CUST-0184,N. America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,J. Kim
+ORD-100896,2026-06-17,CUST-0310,apac,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,S. Okafor
+ORD-100238,2026-05-27,CUST-0040,EMEA,direct,SKU-1005,Premium Support,1,2500.00,0.10,2250,cancelled,,,A. Patel
+ORD-100847,2026-06-28,CUST-0018,emea,web,SKU-1002,Streaming Add-on,1,450.00,0.00,$450.00,completed,,,S. Okafor
+ORD-100888,2026-08-11,CUST-0218,emea,web,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,completed,,,S. Okafor
+ORD-100437,15-Jul-2026,CUST-0328,Latin America,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,"$2,400.00",completed,,,
+ORD-100777,2026-06-01,CUST-0178,NA ,web,SKU-1005,Premium Support,2,2500.00,0.10,4500,completed,,,
+ORD-101099,2026-09-14,CUST-0189,north america,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,A. Patel
+ORD-100449,2026-10-04,CUST-0250,EMEA,web,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,
+ORD-100622,05/13/2026,CUST-0329,Asia Pacific,web,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,refunded,2125.00,damaged,A. Patel
+ORD-100704,2026-10-12,CUST-0043,NA ,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",cancelled,,,A. Patel
+ORD-100749,2026-07-05,CUST-0016,Europe,web,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,cancelled,,,J. Kim
+ORD-100804,08/31/2026,CUST-0117,EMEA,web,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,J. Kim
+ORD-101166,2026-10-06,CUST-0105,NA ,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,"$2,400.00",completed,,,
+ORD-100850,2026-09-21,CUST-0274,north america,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,completed,,,S. Okafor
+ORD-100753,08/04/2026,CUST-0231,,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300,refunded,300.00,not as described,S. Okafor
+ORD-100349,14-Sep-2026,CUST-0245,apac,web,SKU-1002,Streaming Add-on,1,450.00,0.05,$427.50,completed,,,L. Chen
+ORD-100994,06/28/2026,CUST-0023,APAC,partner,SKU-1003,ML Training Credits,10,800.00,0.05,7600.00,completed,,,M. Garcia
+ORD-100587,2026-07-25,CUST-0013,Europe,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800,completed,,,A. Patel
+ORD-100176,2026-07-27,CUST-0305,N. America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,S. Okafor
+ORD-100430,2026-06-08,CUST-0090,NA ,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.10,2160.00,completed,,,A. Patel
+ORD-100532,2026-06-01,CUST-0055,apac,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,
+ORD-100268,04-Jun-2026,,EMEA,partner,SKU-1005,Premium Support,1,2500.00,0.15,"$2,125.00",completed,,,S. Okafor
+ORD-100199,2026-09-30,CUST-0150,apac,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500,completed,,,
+ORD-101031,2026-09-02,CUST-0223,north america,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500,COMPLETED,,,A. Patel
+ORD-100953,10/19/2026,CUST-0135,APAC,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,REFUNDED,2500.00,damaged,J. Kim
+ORD-100187,2026-09-20,CUST-0229,NA ,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.10,810.00,completed,,,
+ORD-100848,05/19/2026,CUST-0213,EMEA,web,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,J. Kim
+ORD-100550,2026-07-26,CUST-0062,Asia Pacific,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,M. Garcia
+ORD-100604,09/24/2026,CUST-0131,North America,partner,SKU-1003,ML Training Credits,1,800.00,0.05,$760.00,completed,,,L. Chen
+ORD-100841,05/29/2026,CUST-0148,N. America,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,pending,,,A. Patel
+ORD-100916,2026-05-04,CUST-0116,apac,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,completed,,,
+ORD-100504,2026-09-03,CUST-0173,N. America,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,S. Okafor
+ORD-100900,2026-09-13,CUST-0162,emea,marketplace,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,J. Kim
+ORD-100095,2026-07-14,CUST-0221,north america,partner,SKU-1002,Streaming Add-on,3,450.00,0.00,1350.00,completed,,,L. Chen
+ORD-100655,2026-06-07,CUST-0018,NA ,direct,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,completed,,,M. Garcia
+ORD-100166,2026-08-29,CUST-0105,NA ,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,J. Kim
+ORD-100854,2026-10-29,CUST-0042,North America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.05,617.50,completed,,,A. Patel
+ORD-100015,14-May-2026,CUST-0051,EMEA,marketplace,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,A. Patel
+ORD-100986,2026-07-14,CUST-0303,Europe,partner,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,"$3,600.00",completed,,,L. Chen
+ORD-101140,07/26/2026,CUST-0162,N. America,web,SKU-1006,Data Sharing Pack,5,650.00,0.15,2762.50,COMPLETED,,,L. Chen
+ORD-100938,07-May-2026,CUST-0021,APAC,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450,completed,,,M. Garcia
+ORD-100175,2026-09-23,CUST-0277,apac,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,refunded,800,damaged,L. Chen
+ORD-101000,2026-06-14,CUST-0330,LATAM,marketplace,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,L. Chen
+ORD-100984,2026-05-08,CUST-0192,EMEA,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,J. Kim
+ORD-100512,2026-06-05,CUST-0257,EMEA,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,COMPLETED,,,L. Chen
+ORD-100810,06/22/2026,CUST-0267,north america,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,cancelled,,,M. Garcia
+ORD-100759,2026-09-04,CUST-0233,,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,A. Patel
+ORD-100475,2026-07-21,CUST-0029,NA ,marketplace,SKU-1005,Premium Support,1,2500.00,0.05,2375.00,completed,,,M. Garcia
+ORD-100927,2026-05-02,CUST-0210,NA ,partner,SKU-1005,Premium Support,1,2500.00,0.05,2375,completed,,,A. Patel
+ORD-100146,2026-07-13,CUST-0046,LATAM,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,J. Kim
+ORD-100111,10/30/2026,CUST-0071,North America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",completed,,,J. Kim
+ORD-100548,08/29/2026,CUST-0319,north america,direct,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,COMPLETED,,,S. Okafor
+ORD-100482,16-Aug-2026,CUST-0025,NA ,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,L. Chen
+ORD-100408,06/14/2026,CUST-0104,APAC,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,L. Chen
+ORD-101012,2026-07-17,CUST-0078,north america,marketplace,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,S. Okafor
+ORD-100852,2026-06-23,CUST-0128,APAC,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,refunded,1200.00,duplicate charge,A. Patel
+ORD-100257,2026-10-30,CUST-0217,N. America,direct,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,pending,,,M. Garcia
+ORD-100699,07/23/2026,CUST-0282,NA ,partner,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,M. Garcia
+ORD-101018,2026-05-03,CUST-0195,north america,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,COMPLETED,,,
+ORD-100463,2026-08-02,CUST-0035,north america,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800,completed,,,A. Patel
+ORD-100243,2026-05-01,CUST-0339,Europe,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,COMPLETED,,,J. Kim
+ORD-100055,2026-06-27,CUST-0227,NA ,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,completed,,,L. Chen
+ORD-101152,2026-08-03,CUST-0338,NA ,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,J. Kim
+ORD-100283,08/24/2026,CUST-0114,EMEA,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,M. Garcia
+ORD-100442,05/21/2026,CUST-0149,LATAM,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,refunded,1200.00,not as described,
+ORD-100097,26-Aug-2026,CUST-0046,N. America,web,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,refunded,720.00,changed mind,M. Garcia
+ORD-100838,2026-08-05,CUST-0101,emea,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,refunded,1080.00,not as described,J. Kim
+ORD-100045,2026-06-20,CUST-0322,APAC,web,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,
+ORD-100928,2026-08-04,CUST-0196,NA ,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",completed,,,S. Okafor
+ORD-101184,2026-07-19,CUST-0237,EMEA,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,pending,,,S. Okafor
+ORD-100406,2026-09-20,CUST-0170,emea,web,SKU-1005,Premium Support,2,2500.00,0.00,5000,completed,,,A. Patel
+ORD-100885,08/01/2026,CUST-0313,Asia Pacific,marketplace,SKU-1002,Streaming Add-on,3,450.00,0.00,"$1,350.00",completed,,,J. Kim
+ORD-100145,2026-05-14,CUST-0242,North America,partner,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-100049,2026-10-27,CUST-0265,APAC,web,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,refunded,720.00,duplicate charge,
+ORD-100331,08/05/2026,CUST-0174,apac,marketplace,SKU-1005,Premium Support,1,2500.00,0.05,"$2,375.00",completed,,,S. Okafor
+ORD-100593,2026-10-06,CUST-0023,EMEA,partner,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,
+ORD-100886,2026-08-07,CUST-0146,NA ,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,M. Garcia
+ORD-100173,2026-10-13,CUST-0049,North America,partner,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,completed,,,L. Chen
+ORD-100744,2026-07-06,CUST-0166,EMEA,web,SKU-1004,Dashboard Seats (10),3,300.00,0.15,765.00,refunded,765.00,duplicate charge,A. Patel
+ORD-100051,2026-07-18,CUST-0099,emea,web,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,
+ORD-100607,2026-10-22,CUST-0310,north america,direct,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,refunded,$680.00,changed mind,S. Okafor
+ORD-100271,2026-05-26,CUST-0311,Europe,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,L. Chen
+ORD-100315,2026-07-28,CUST-0310,North America,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-100304,2026-06-06,CUST-0306,Latin America,web,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.10,2160.00,completed,,,
+ORD-100559,07/19/2026,CUST-0082,EMEA,web,SKU-1002,Streaming Add-on,1,450.00,0.10,$405.00,completed,,,M. Garcia
+ORD-100684,2026-05-11,CUST-0170,APAC,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,
+ORD-100913,2026-08-01,CUST-0082,NA ,marketplace,SKU-1002,Streaming Add-on,5,450.00,0.10,2025.00,completed,,,J. Kim
+ORD-100077,09/20/2026,CUST-0008,Latin America,web,SKU-1006,Data Sharing Pack,2,650.00,0.05,1235.00,completed,,,
+ORD-101108,2026-08-12,CUST-0178,NA ,direct,SKU-1005,Premium Support,1,2500.00,0.05,2375.00,completed,,,L. Chen
+ORD-100224,2026-08-24,CUST-0275,apac,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,A. Patel
+ORD-100195,2026-06-04,CUST-0288,Europe,marketplace,SKU-1003,ML Training Credits,10,800.00,0.05,7600.00,completed,,,
+ORD-100125,2026-06-05,CUST-0185,Asia Pacific,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-100386,08/22/2026,CUST-0327,Asia Pacific,direct,SKU-1004,Dashboard Seats (10),10,300.00,0.00,3000.00,completed,,,J. Kim
+ORD-100354,2026-05-19,CUST-0129,apac,web,SKU-1002,Streaming Add-on,1,450.00,0.05,427.50,completed,,,J. Kim
+ORD-100588,2026-10-08,CUST-0013,NA ,direct,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,M. Garcia
+ORD-100560,05/29/2026,CUST-0133,Asia Pacific,direct,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,completed,,,A. Patel
+ORD-100508,2026-09-22,CUST-0103,emea,marketplace,SKU-1005,Premium Support,3,2500.00,0.05,7125.00,completed,,,
+ORD-100479,08/27/2026,CUST-0079,apac,direct,SKU-1005,Premium Support,1,2500.00,0.10,2250,completed,,,S. Okafor
+ORD-101089,2026-07-10,CUST-0113,Europe,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,"$1,080.00",completed,,,J. Kim
+ORD-100326,2026-10-01,CUST-0114,emea,web,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.05,3420.00,completed,,,S. Okafor
+ORD-101092,2026-10-05,CUST-0140,north america,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,M. Garcia
+ORD-100526,2026-05-02,CUST-0155,Latin America,direct,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,completed,,,A. Patel
+ORD-100845,2026-09-19,CUST-0108,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,650,completed,,,S. Okafor
+ORD-100244,08/10/2026,CUST-0136,LATAM,marketplace,SKU-1004,Dashboard Seats (10),3,300.00,0.00,900.00,completed,,,M. Garcia
+ORD-100433,06-Aug-2026,CUST-0022,EMEA,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285,completed,,,
+ORD-101088,2026-05-11,CUST-0281,NA ,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",refunded,1200.00,duplicate charge,A. Patel
+ORD-100225,10/02/2026,CUST-0168,APAC,web,SKU-1003,ML Training Credits,3,800.00,0.15,2040.00,completed,,,S. Okafor
+ORD-100116,2026-10-09,CUST-0235,APAC,direct,SKU-1004,Dashboard Seats (10),10,300.00,0.05,2850.00,completed,,,A. Patel
+ORD-100389,15-Jun-2026,CUST-0316,emea,direct,SKU-1002,Streaming Add-on,3,450.00,0.00,"$1,350.00",cancelled,,,S. Okafor
+ORD-100001,2026-06-27,CUST-0280,EMEA,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,COMPLETED,,,J. Kim
+ORD-100168,09/03/2026,CUST-0181,APAC,partner,SKU-1004,Dashboard Seats (10),10,300.00,0.15,2550.00,completed,,,L. Chen
+ORD-100618,2026-06-01,CUST-0054,NA ,marketplace,SKU-1004,Dashboard Seats (10),-1,300.00,0.10,270.00,pending,,,L. Chen
+ORD-100081,03-Aug-2026,CUST-0184,North America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,completed,,,S. Okafor
+ORD-100105,2026-05-24,CUST-0186,EMEA,direct,SKU-1006,Data Sharing Pack,10,650.00,0.10,5850.00,completed,,,M. Garcia
+ORD-100695,01-Oct-2026,CUST-0149,North America,web,SKU-1005,Premium Support,3,2500.00,0.00,"$7,500.00",completed,,,
+ORD-100169,2026-10-19,CUST-0071,LATAM,web,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,COMPLETED,,,L. Chen
+ORD-101035,2026-06-28,CUST-0128,apac,marketplace,SKU-1003,ML Training Credits,3,800.00,0.10,"$2,160.00",completed,,,A. Patel
+ORD-100921,2026-08-19,CUST-0227,Europe,partner,SKU-1003,ML Training Credits,2,800.00,0.10,1440.00,refunded,"$1,440.00",damaged,M. Garcia
+ORD-100870,2026-10-19,CUST-0257,LATAM,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,M. Garcia
+ORD-100210,10/13/2026,CUST-0123,emea,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-100011,2026-09-23,CUST-0249,APAC,partner,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,cancelled,,,L. Chen
+ORD-101034,29-Jun-2026,CUST-0325,N. America,direct,SKU-1002,Streaming Add-on,5,450.00,0.15,1912.50,cancelled,,,M. Garcia
+ORD-100082,2026-05-13,CUST-0065,north america,web,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",completed,,,L. Chen
+ORD-100950,09/10/2026,CUST-0068,NA ,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,completed,,,
+ORD-100558,08/12/2026,CUST-0044,EMEA,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,completed,,,J. Kim
+ORD-100957,22-Jul-2026,CUST-0001,APAC,direct,SKU-1004,Dashboard Seats (10),5,300.00,0.05,1425.00,completed,,,J. Kim
+ORD-100223,2026-07-20,CUST-0168,NA ,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,CANCELLED,,,J. Kim
+ORD-100822,2026-05-07,CUST-0161,NA ,partner,SKU-1003,ML Training Credits,5,800.00,0.10,3600.00,completed,,,
+ORD-100707,08/07/2026,CUST-0058,N. America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552,completed,,,M. Garcia
+ORD-100415,07/24/2026,CUST-0233,N. America,web,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,completed,,,S. Okafor
+ORD-100351,07/09/2026,CUST-0138,apac,partner,SKU-1005,Premium Support,3,2500.00,0.15,"$6,375.00",completed,,,M. Garcia
+ORD-100733,24-Oct-2026,CUST-0224,NA ,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,L. Chen
+ORD-100644,18-Oct-2026,CUST-0050,north america,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,M. Garcia
+ORD-100272,06/20/2026,CUST-0268,north america,direct,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.05,3420.00,completed,,,A. Patel
+ORD-100183,07/23/2026,CUST-0202,emea,web,SKU-1004,Dashboard Seats (10),10,300.00,0.00,"$3,000.00",completed,,,L. Chen
+ORD-100476,09/21/2026,CUST-0228,N. America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,S. Okafor
+ORD-100930,2026-08-03,CUST-0242,north america,web,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,completed,,,S. Okafor
+ORD-100416,09/08/2026,CUST-0055,NA ,web,SKU-1003,ML Training Credits,2,800.00,0.00,"$1,600.00",completed,,,S. Okafor
+ORD-100407,2026-10-03,CUST-0158,NA ,web,SKU-1005,Premium Support,3,2500.00,0.10,6750.00,COMPLETED,,,J. Kim
+ORD-100400,2026-07-10,CUST-0108,north america,web,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,
+ORD-100138,2026-08-03,CUST-0214,Europe,direct,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,completed,,,
+ORD-100539,07/05/2026,CUST-0009,EMEA,marketplace,SKU-1005,Premium Support,3,2500.00,0.00,N/A,completed,,,S. Okafor
+ORD-100814,28-May-2026,CUST-0148,N. America,marketplace,SKU-1006,Data Sharing Pack,5,650.00,0.00,3250.00,completed,,,L. Chen
+ORD-100047,15-Jun-2026,CUST-0139,N. America,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,M. Garcia
+ORD-100540,2026-08-25,CUST-0136,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,COMPLETED,,,L. Chen
+ORD-100137,2026-06-05,CUST-0084,emea,direct,SKU-1002,Streaming Add-on,2,450.00,0.10,810.00,completed,,,L. Chen
+ORD-100330,2026-06-14,CUST-0038,Europe,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,L. Chen
+ORD-100098,2026-05-30,CUST-0179,NA ,partner,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,J. Kim
+ORD-100788,2026-08-09,CUST-0208,N. America,partner,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.05,"$3,420.00",completed,,,L. Chen
+ORD-100972,15-Jul-2026,CUST-0166,north america,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,$255.00,completed,,,J. Kim
+ORD-101008,2026-09-16,CUST-0320,N. America,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,J. Kim
+ORD-100189,2026-07-21,CUST-0059,EMEA,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,J. Kim
+ORD-100040,09/17/2026,CUST-0250,LATAM,direct,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,COMPLETED,,,M. Garcia
+ORD-101136,2026-08-28,CUST-0315,NA ,web,SKU-1005,Premium Support,3,2500.00,0.10,6750.00,COMPLETED,,,J. Kim
+ORD-100281,2026-05-23,CUST-0061,N. America,web,SKU-1004,Dashboard Seats (10),3,300.00,0.05,855.00,refunded,855.00,damaged,A. Patel
+ORD-100267,2026-07-19,CUST-0302,emea,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,COMPLETED,,,M. Garcia
+ORD-100844,2026-06-26,CUST-0106,,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,
+ORD-101176,2026-06-07,CUST-0245,apac,marketplace,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,J. Kim
+ORD-100287,2026-07-10,CUST-0151,N. America,partner,SKU-1005,Premium Support,5,2500.00,0.00,12500.00,completed,,,
+ORD-100920,2026-07-21,CUST-0245,EMEA,marketplace,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,L. Chen
+ORD-100120,07/10/2026,CUST-0030,APAC,marketplace,SKU-1003,ML Training Credits,2,800.00,0.05,1520.00,completed,,,
+ORD-100333,2026-08-30,CUST-0294,emea,partner,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,completed,,,J. Kim
+ORD-101103,2026-06-02,CUST-0308,NA ,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,completed,,,S. Okafor
+ORD-100577,10/09/2026,CUST-0145,North America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,M. Garcia
+ORD-100907,2026-07-22,CUST-0016,north america,marketplace,SKU-1004,Dashboard Seats (10),5,300.00,0.00,1500.00,completed,,,S. Okafor
+ORD-100903,2026-10-10,CUST-0275,Asia Pacific,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,S. Okafor
+ORD-101015,05/29/2026,CUST-0101,NA ,direct,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,pending,,,A. Patel
+ORD-100035,08/17/2026,CUST-0266,emea,web,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.00,6000.00,completed,,,A. Patel
+ORD-100554,2026-08-01,CUST-0272,N. America,partner,SKU-1003,ML Training Credits,2,800.00,0.05,1520.00,completed,,,S. Okafor
+ORD-100574,2026-08-27,CUST-0015,emea,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,"$1,200.00",COMPLETED,,,L. Chen
+ORD-100479,08/27/2026,CUST-0079,apac,direct,SKU-1005,Premium Support,1,2500.00,0.10,2250,completed,,,S. Okafor
+ORD-100755,2026-06-29,CUST-0309,EMEA,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,L. Chen
+ORD-100104,2026-07-19,CUST-0201,north america,web,SKU-1005,Premium Support,2,2500.00,0.00,5000.00,pending,,,M. Garcia
+ORD-100295,2026-10-05,CUST-0294,Asia Pacific,direct,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,refunded,2125.00,duplicate charge,L. Chen
+ORD-100843,2026-07-06,CUST-0227,apac,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,COMPLETED,,,S. Okafor
+ORD-100908,10/02/2026,CUST-0082,APAC,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,REFUNDED,600.00,changed mind,L. Chen
+ORD-100402,2026-10-29,CUST-0061,EMEA,marketplace,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,completed,,,J. Kim
+ORD-101069,10/26/2026,CUST-0275,North America,direct,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,S. Okafor
+ORD-100363,2026-09-24,,NA ,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,A. Patel
+ORD-101182,2026-06-18,CUST-0138,EMEA,partner,SKU-1002,Streaming Add-on,2,450.00,0.05,855.00,completed,,,S. Okafor
+ORD-100929,2026-08-31,CUST-0024,N. America,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,cancelled,,,L. Chen
+ORD-100112,05/05/2026,CUST-0281,Europe,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,M. Garcia
+ORD-100659,2026-06-11,CUST-0248,NA ,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,J. Kim
+ORD-101134,2026-07-14,CUST-0219,LATAM,partner,SKU-1006,Data Sharing Pack,1,650.00,0.15,552.50,completed,,,M. Garcia
+ORD-100601,2026-09-28,CUST-0077,Latin America,partner,SKU-1002,Streaming Add-on,5,450.00,0.10,2025.00,completed,,,J. Kim
+ORD-100165,2026-10-02,CUST-0123,Latin America,direct,SKU-1004,Dashboard Seats (10),5,300.00,0.15,1275.00,completed,,,M. Garcia
+ORD-100572,2026-06-09,CUST-0087,North America,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
+ORD-100115,2026-07-28,CUST-0054,NA ,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,
+ORD-101081,07/23/2026,CUST-0241,Asia Pacific,marketplace,SKU-1003,ML Training Credits,3,800.00,0.10,2160.00,cancelled,,,
+ORD-100769,2026-10-27,CUST-0052,EMEA,direct,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,J. Kim
+ORD-100136,09/20/2026,CUST-0102,Latin America,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,cancelled,,,M. Garcia
+ORD-100099,2026-09-04,CUST-0297,N. America,direct,SKU-1006,Data Sharing Pack,1,650.00,0.15,$552.50,completed,,,J. Kim
+ORD-100053,06/02/2026,CUST-0053,North America,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.15,2040.00,completed,,,J. Kim
+ORD-100686,2026-05-14,CUST-0306,North America,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,3600.00,completed,,,A. Patel
+ORD-100396,2026-10-07,CUST-0255,N. America,web,SKU-1002,Streaming Add-on,10,450.00,0.00,4500.00,completed,,,J. Kim
+ORD-100167,2026-08-15,CUST-0118,N. America,partner,SKU-1005,Premium Support,5,2500.00,0.10,11250.00,completed,,,
+ORD-100154,2026-06-03,CUST-0030,Asia Pacific,marketplace,SKU-1004,Dashboard Seats (10),3,300.00,0.05,855.00,completed,,,A. Patel
+ORD-100414,2026-10-26,CUST-0330,N. America,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,L. Chen
+ORD-101032,2026-06-30,CUST-0111,N. America,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,J. Kim
+ORD-100793,2026-07-11,CUST-0202,EMEA,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,
+ORD-100240,2026-08-05,CUST-0246,Europe,partner,SKU-1002,Streaming Add-on,5,450.00,0.05,2137.50,COMPLETED,,,A. Patel
+ORD-101183,2026-10-19,CUST-0153,north america,web,SKU-1002,Streaming Add-on,2,450.00,0.15,765.00,completed,,,
+ORD-100129,2026-07-26,CUST-0015,North America,web,SKU-1006,Data Sharing Pack,2,650.00,0.10,"$1,170.00",refunded,1170.00,duplicate charge,L. Chen
+ORD-100798,2026-06-05,CUST-0209,North America,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,refunded,$650.00,changed mind,J. Kim
+ORD-100801,2026-10-04,CUST-0030,,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,"$2,250.00",completed,,,
+ORD-101142,06/05/2026,CUST-0079,apac,direct,SKU-1001,Lakehouse Starter Kit,5,1200.00,0.15,"$5,100.00",completed,,,L. Chen
+ORD-101053,07/16/2026,CUST-0155,north america,direct,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,J. Kim
+ORD-100014,06/03/2026,CUST-0296,N. America,partner,SKU-1006,Data Sharing Pack,1,650.00,0.10,$585.00,completed,,,J. Kim
+ORD-100003,2026-07-31,CUST-0023,Asia Pacific,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,refunded,1200.00,not as described,
+ORD-100459,2026-05-09,CUST-0051,N. America,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.10,540.00,completed,,,A. Patel
+ORD-100980,28-Sep-2026,CUST-0315,APAC,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,J. Kim
+ORD-100337,2026-09-26,CUST-0133,EMEA,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.05,2280.00,completed,,,L. Chen
+ORD-100061,04-Sep-2026,CUST-0282,EMEA,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.15,382.50,completed,,,A. Patel
+ORD-100084,2026-06-14,CUST-0216,North America,web,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,L. Chen
+ORD-100557,2026-07-11,CUST-0076,Europe,marketplace,SKU-1003,ML Training Credits,5,800.00,0.00,4000.00,cancelled,,,L. Chen
+ORD-101043,05/21/2026,CUST-0253,N. America,web,SKU-1003,ML Training Credits,10,800.00,0.00,8000.00,completed,,,S. Okafor
+ORD-100637,2026-10-10,CUST-0334,apac,marketplace,SKU-1003,ML Training Credits,2,800.00,0.05,1520.00,completed,,,A. Patel
+ORD-100493,2026-06-27,CUST-0220,EMEA,web,SKU-1006,Data Sharing Pack,10,650.00,0.05,"$6,175.00",completed,,,
+ORD-100306,2026-05-19,CUST-0051,LATAM,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,2250,completed,,,
+ORD-101109,2026-05-10,CUST-0290,North America,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,
+ORD-100817,2026-08-31,CUST-0210,North America,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,M. Garcia
+ORD-100547,2026-07-28,CUST-0301,NA ,marketplace,SKU-1003,ML Training Credits,2,800.00,0.05,1520.00,completed,,,
+ORD-100394,2026-08-24,CUST-0197,Europe,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.15,1020.00,completed,,,J. Kim
+ORD-100516,05-Jul-2026,CUST-0121,apac,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,$285.00,completed,,,S. Okafor
+ORD-100247,06-Oct-2026,CUST-0230,EMEA,partner,SKU-1005,Premium Support,-3,2500.00,0.15,6375,completed,,,J. Kim
+ORD-100690,2026-10-30,CUST-0025,north america,web,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,M. Garcia
+ORD-100643,2026-05-21,CUST-0142,APAC,direct,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,3600.00,completed,,,S. Okafor
+ORD-101083,2026-07-01,CUST-0157,EMEA,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
+ORD-101193,2026-08-03,CUST-0030,APAC,direct,SKU-1005,Premium Support,2,2500.00,0.05,4750.00,completed,,,L. Chen
+ORD-100299,2026-05-17,CUST-0110,N. America,web,SKU-1005,Premium Support,2,2500.00,0.15,4250.00,completed,,,
+ORD-100202,2026-05-24,CUST-0184,North America,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.15,3060.00,completed,,,J. Kim
+ORD-100873,06/18/2026,CUST-0159,LATAM,marketplace,SKU-1003,ML Training Credits,3,800.00,0.15,2040.00,completed,,,J. Kim
+ORD-100987,09/18/2026,CUST-0060,Europe,web,SKU-1003,ML Training Credits,5,800.00,0.15,3400.00,refunded,3400.00,changed mind,J. Kim
+ORD-100031,2026-09-07,CUST-0207,Europe,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,
+ORD-100444,2026-08-24,CUST-0174,APAC,direct,SKU-1006,Data Sharing Pack,1,650.00,0.10,$585.00,PENDING,,,A. Patel
+ORD-100150,2026-09-27,CUST-0335,NA ,partner,SKU-1003,ML Training Credits,10,800.00,0.00,8000.00,completed,,,M. Garcia
+ORD-100834,01-Oct-2026,CUST-0277,Europe,partner,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,cancelled,,,A. Patel
+ORD-101185,2026-06-17,CUST-0189,,partner,SKU-1003,ML Training Credits,3,800.00,0.00,2400.00,completed,,,
+ORD-100775,2026-07-31,CUST-0221,Latin America,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,S. Okafor
+ORD-100784,2026-07-02,CUST-0318,NA ,web,SKU-1002,Streaming Add-on,2,450.00,0.00,$900.00,completed,,,S. Okafor
+ORD-101128,07/25/2026,CUST-0259,apac,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,"$2,500.00",completed,,,L. Chen
+ORD-100192,2026-09-03,CUST-0306,N. America,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.15,255.00,completed,,,S. Okafor
+ORD-100545,08/15/2026,CUST-0306,NA ,web,SKU-1006,Data Sharing Pack,3,650.00,0.05,1852.50,refunded,1852.50,changed mind,J. Kim
+ORD-101168,2026-10-30,CUST-0272,NA ,marketplace,SKU-1006,Data Sharing Pack,3,650.00,0.00,1950.00,completed,,,L. Chen
+ORD-100095,2026-07-14,CUST-0221,north america,partner,SKU-1002,Streaming Add-on,3,450.00,0.00,1350.00,completed,,,L. Chen
+ORD-101116,17-May-2026,CUST-0030,N. America,marketplace,SKU-1002,Streaming Add-on,2,450.00,0.15,$765.00,completed,,,S. Okafor
+ORD-100735,01-May-2026,CUST-0065,N. America,web,SKU-1006,Data Sharing Pack,1,650.00,0.10,585.00,pending,,,J. Kim
+ORD-100832,21-Jul-2026,CUST-0022,Asia Pacific,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.05,285.00,completed,,,L. Chen
+ORD-100302,2026-05-28,CUST-0311,EMEA,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,"$1,080.00",completed,,,S. Okafor
+ORD-101125,2026-08-27,CUST-0166,N. America,partner,SKU-1003,ML Training Credits,1,800.00,0.05,$760.00,completed,,,
+ORD-100062,2026-10-16,CUST-0028,north america,direct,SKU-1005,Premium Support,3,2500.00,0.00,7500.00,refunded,7500.00,damaged,J. Kim
+ORD-100700,11-Jul-2026,CUST-0276,Europe,web,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,3600.00,completed,,,
+ORD-100890,2026-10-05,CUST-0025,Latin America,direct,SKU-1005,Premium Support,1,2500.00,0.10,2250.00,completed,,,S. Okafor
+ORD-100292,2026-10-26,CUST-0196,emea,marketplace,SKU-1005,Premium Support,1,2500.00,0.10,2250,completed,,,M. Garcia
+ORD-101176,2026-06-07,CUST-0245,apac,marketplace,SKU-1003,ML Training Credits,1,800.00,0.10,720.00,completed,,,J. Kim
+ORD-100835,2026-09-11,CUST-0057,North America,marketplace,SKU-1005,Premium Support,1,2500.00,0.05,"$2,375.00",completed,,,A. Patel
+ORD-100706,2026-05-12,CUST-0262,emea,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,J. Kim
+ORD-100007,2026-06-05,CUST-0135,N. America,marketplace,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,J. Kim
+ORD-100584,2026-06-14,CUST-0034,EMEA,direct,SKU-1006,Data Sharing Pack,2,650.00,0.10,"$1,170.00",completed,,,L. Chen
+ORD-100036,09/30/2026,CUST-0227,Asia Pacific,marketplace,SKU-1006,Data Sharing Pack,2,650.00,0.10,"$1,170.00",completed,,,J. Kim
+ORD-101150,2026-07-04,CUST-0329,LATAM,partner,SKU-1004,Dashboard Seats (10),2,300.00,0.15,510.00,COMPLETED,,,J. Kim
+ORD-100284,09/04/2026,CUST-0210,North America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,S. Okafor
+ORD-101066,10/27/2026,CUST-0276,North America,marketplace,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,completed,,,M. Garcia
+ORD-100500,2026-05-29,CUST-0284,N. America,marketplace,SKU-1003,ML Training Credits,2,800.00,0.05,1520.00,completed,,,A. Patel
+ORD-100741,2026-07-12,,N. America,partner,SKU-1003,ML Training Credits,3,800.00,0.10,2160.00,completed,,,A. Patel
+ORD-100668,11-Sep-2026,CUST-0311,north america,web,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,CANCELLED,,,A. Patel
+ORD-100452,05/14/2026,CUST-0243,emea,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,A. Patel
+ORD-101065,2026-07-16,CUST-0156,N. America,marketplace,SKU-1004,Dashboard Seats (10),1,300.00,0.10,270.00,completed,,,
+ORD-100468,2026-10-13,CUST-0336,NA ,marketplace,SKU-1002,Streaming Add-on,3,450.00,0.10,1215.00,completed,,,L. Chen
+ORD-101151,2026-07-10,CUST-0334,EMEA,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,CANCELLED,,,A. Patel
+ORD-100634,2026-09-30,CUST-0090,NA ,marketplace,SKU-1001,Lakehouse Starter Kit,3,1200.00,0.00,3600.00,completed,,,S. Okafor
+ORD-100443,2026-10-09,CUST-0019,north america,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,S. Okafor
+ORD-100357,09/27/2026,CUST-0005,North America,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,A. Patel
+ORD-100906,05/06/2026,CUST-0335,emea,partner,SKU-1006,Data Sharing Pack,1,650.00,0.00,$650.00,completed,,,M. Garcia
+ORD-100063,02-Sep-2026,CUST-0312,north america,partner,SKU-1003,ML Training Credits,1,800.00,0.15,680.00,COMPLETED,,,S. Okafor
+ORD-100856,2026-07-09,CUST-0191,LATAM,partner,SKU-1006,Data Sharing Pack,5,650.00,0.15,2762.50,completed,,,L. Chen
+ORD-100937,2026-09-27,CUST-0235,north america,direct,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,L. Chen
+ORD-100242,2026-06-22,CUST-0284,Asia Pacific,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,N/A,pending,,,A. Patel
+ORD-100816,2026-10-15,CUST-0064,emea,direct,SKU-1003,ML Training Credits,1,800.00,0.00,$800.00,completed,,,S. Okafor
+ORD-100318,17-Oct-2026,CUST-0111,N. America,marketplace,SKU-1005,Premium Support,2,2500.00,0.15,"$4,250.00",refunded,"$4,250.00",duplicate charge,L. Chen
+ORD-100969,2026-05-26,CUST-0208,apac,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,cancelled,,,J. Kim
+ORD-101143,2026-05-07,CUST-0048,EMEA,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,PENDING,,,M. Garcia
+ORD-100048,2026-07-02,CUST-0195,NA ,web,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.05,1140.00,completed,,,S. Okafor
+ORD-100836,2026-05-21,CUST-0039,Latin America,partner,SKU-1006,Data Sharing Pack,2,650.00,0.00,1300.00,completed,,,
+ORD-100113,17-May-2026,CUST-0306,North America,partner,SKU-1006,Data Sharing Pack,3,650.00,0.05,1852.50,completed,,,A. Patel
+ORD-101147,2026-05-27,CUST-0112,north america,partner,SKU-1006,Data Sharing Pack,5,650.00,0.15,2762.50,completed,,,
+ORD-101155,2026-10-12,CUST-0142,emea,marketplace,SKU-1005,Premium Support,1,2500.00,0.00,2500.00,completed,,,S. Okafor
+ORD-100828,2026-06-03,CUST-0199,apac,direct,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,2400.00,completed,,,J. Kim
+ORD-100881,17-Oct-2026,CUST-0047,NA ,partner,SKU-1005,Premium Support,3,2500.00,0.00,"$7,500.00",completed,,,J. Kim
+ORD-100290,2026-05-04,CUST-0075,EMEA,web,SKU-1005,Premium Support,1,2500.00,0.05,2375.00,completed,,,J. Kim
+ORD-101200,02-May-2026,CUST-0100,Latin America,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,L. Chen
+ORD-100457,2026-10-04,CUST-0284,north america,web,SKU-1002,Streaming Add-on,3,450.00,0.15,1147.50,cancelled,,,J. Kim
+ORD-100379,2026-07-12,CUST-0139,EMEA,marketplace,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,COMPLETED,,,S. Okafor
+ORD-100222,2026-08-14,CUST-0044,North America,partner,SKU-1002,Streaming Add-on,5,450.00,0.10,2025.00,completed,,,L. Chen
+ORD-100390,20-Jul-2026,CUST-0293,North America,web,SKU-1006,Data Sharing Pack,3,650.00,0.15,1657.50,completed,,,A. Patel
+ORD-100359,10/24/2026,CUST-0129,APAC,marketplace,SKU-1004,Dashboard Seats (10),2,300.00,0.00,600.00,completed,,,L. Chen
+ORD-100399,2026-09-26,CUST-0154,emea,direct,SKU-1005,Premium Support,1,2500.00,0.05,"$2,375.00",completed,,,S. Okafor
+ORD-101167,2026-08-04,CUST-0216,APAC,web,SKU-1004,Dashboard Seats (10),1,300.00,0.00,$300.00,completed,,,J. Kim
+ORD-100635,2026-06-20,CUST-0007,Europe,direct,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,S. Okafor
+ORD-101025,2026-07-13,CUST-0177,Europe,partner,SKU-1005,Premium Support,1,2500.00,0.15,2125.00,completed,,,
+ORD-100044,12-Jun-2026,CUST-0059,north america,direct,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,COMPLETED,,,M. Garcia
+ORD-100603,2026-08-30,CUST-0299,Europe,web,SKU-1004,Dashboard Seats (10),2,300.00,0.05,570.00,completed,,,S. Okafor
+ORD-100211,06/03/2026,,apac,partner,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.00,"$12,000.00",completed,,,A. Patel
+ORD-101158,16-Jun-2026,CUST-0002,APAC,web,SKU-1005,Premium Support,3,2500.00,0.10,6750.00,completed,,,L. Chen
+ORD-100677,2026-07-13,CUST-0006,Latin America,partner,SKU-1002,Streaming Add-on,2,450.00,0.00,900.00,completed,,,
+ORD-100301,2026-10-09,CUST-0200,North America,web,SKU-1003,ML Training Credits,1,800.00,0.05,760.00,completed,,,
+ORD-100509,2026-10-10,CUST-0147,Asia Pacific,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.00,300.00,completed,,,S. Okafor
+ORD-101165,2026-05-06,CUST-0081,north america,web,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.10,10800.00,completed,,,J. Kim
+ORD-100787,2026-09-02,CUST-0035,North America,partner,SKU-1003,ML Training Credits,2,800.00,0.00,1600.00,completed,,,A. Patel
+ORD-101187,2026-08-28,CUST-0175,EMEA,direct,SKU-1003,ML Training Credits,1,800.00,0.00,800.00,COMPLETED,,,M. Garcia
+ORD-100750,2026-06-26,CUST-0065,NA ,direct,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
+ORD-101097,2026-07-05,CUST-0224,emea,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,completed,,,L. Chen
+ORD-100298,2026-08-04,CUST-0250,EMEA,direct,SKU-1003,ML Training Credits,1,800.00,0.10,$720.00,completed,,,L. Chen
+ORD-100606,2026-09-06,CUST-0142,EMEA,web,SKU-1003,ML Training Credits,5,800.00,0.00,4000.00,completed,,,L. Chen
+ORD-101070,2026-07-24,CUST-0040,EMEA,marketplace,SKU-1002,Streaming Add-on,1,450.00,0.10,405.00,COMPLETED,,,
+ORD-100184,10/29/2026,CUST-0036,apac,marketplace,SKU-1001,Lakehouse Starter Kit,10,1200.00,0.05,11400.00,completed,,,M. Garcia
+ORD-100935,2026-09-24,CUST-0098,EMEA,marketplace,SKU-1005,Premium Support,3,2500.00,0.00,"$7,500.00",cancelled,,,
+ORD-101132,09/06/2026,CUST-0328,NA ,web,SKU-1005,Premium Support,5,2500.00,0.00,12500.00,refunded,12500.00,not as described,A. Patel
+ORD-100608,2026-06-08,CUST-0108,apac,partner,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.10,1080.00,refunded,"$1,080.00",changed mind,M. Garcia
+ORD-100770,25-May-2026,CUST-0319,N. America,direct,SKU-1005,Premium Support,1,2500.00,0.00,"$2,500.00",completed,,,J. Kim
+ORD-101173,2026-07-22,CUST-0173,North America,web,SKU-1006,Data Sharing Pack,2,650.00,0.00,"$1,300.00",completed,,,
+ORD-100862,2026-06-05,CUST-0242,NA ,direct,SKU-1001,Lakehouse Starter Kit,1,1200.00,0.00,1200.00,completed,,,L. Chen
+ORD-101174,06/12/2026,CUST-0300,APAC,web,SKU-1006,Data Sharing Pack,1,650.00,0.00,650.00,completed,,,A. Patel
+ORD-100826,2026-08-13,CUST-0311,apac,direct,SKU-1002,Streaming Add-on,5,450.00,0.00,2250.00,completed,,,S. Okafor
+ORD-100340,2026-09-23,CUST-0084,EMEA,partner,SKU-1004,Dashboard Seats (10),1,300.00,0.10,$270.00,completed,,,
+ORD-101194,2026-06-29,CUST-0014,Europe,partner,SKU-1001,Lakehouse Starter Kit,2,1200.00,0.00,"$2,400.00",completed,,,J. Kim
+ORD-100523,10/01/2026,CUST-0097,emea,partner,SKU-1002,Streaming Add-on,1,450.00,0.00,450.00,completed,,,M. Garcia
